@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="25cm" height="5cm" viewBox="154 83 486 81" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="159.5" y1="125.45" x2="207" y2="125.45"/>
+    <path style="fill: #ffffff" d="M 155.5 125.45 C 155.5,124.45 156.5,123.45 157.5,123.45 C 158.5,123.45 159.5,124.45 159.5,125.45 C 159.5,126.45 158.5,127.45 157.5,127.45 C 156.5,127.45 155.5,126.45 155.5,125.45z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 155.5 125.45 C 155.5,124.45 156.5,123.45 157.5,123.45 C 158.5,123.45 159.5,124.45 159.5,125.45 C 159.5,126.45 158.5,127.45 157.5,127.45 C 156.5,127.45 155.5,126.45 155.5,125.45"/>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="215" y="93.45" width="40" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="215" y="93.45" width="40" height="40"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="255" y1="101.45" x2="263" y2="101.45"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="255" y1="125.45" x2="263" y2="125.45"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="215" y1="101.45" x2="207" y2="101.45"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="215" y1="125.45" x2="207" y2="125.45"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="159.5" y1="101.45" x2="207" y2="101.45"/>
+    <path style="fill: #ffffff" d="M 155.5 101.45 C 155.5,100.45 156.5,99.45 157.5,99.45 C 158.5,99.45 159.5,100.45 159.5,101.45 C 159.5,102.45 158.5,103.45 157.5,103.45 C 156.5,103.45 155.5,102.45 155.5,101.45z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 155.5 101.45 C 155.5,100.45 156.5,99.45 157.5,99.45 C 158.5,99.45 159.5,100.45 159.5,101.45 C 159.5,102.45 158.5,103.45 157.5,103.45 C 156.5,103.45 155.5,102.45 155.5,101.45"/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="263" y1="125.45" x2="315" y2="125.45"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="263" y1="101.45" x2="315" y2="101.45"/>
+  <g>
+    <rect style="fill: #ffffff" x="323" y="93.45" width="40" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="323" y="93.45" width="40" height="40"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="363" y1="101.45" x2="371" y2="101.45"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="363" y1="125.45" x2="371" y2="125.45"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="323" y1="101.45" x2="315" y2="101.45"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="323" y1="125.45" x2="315" y2="125.45"/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="371" y1="101.45" x2="423" y2="101.45"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="371" y1="125.45" x2="423" y2="125.45"/>
+  <g>
+    <rect style="fill: #ffffff" x="431" y="93.45" width="40" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="431" y="93.45" width="40" height="40"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="471" y1="101.45" x2="479" y2="101.45"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="471" y1="125.45" x2="479" y2="125.45"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="431" y1="101.45" x2="423" y2="101.45"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="431" y1="125.45" x2="423" y2="125.45"/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="479" y1="101.45" x2="531" y2="101.45"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="479" y1="125.45" x2="531" y2="125.45"/>
+  <g>
+    <rect style="fill: #ffffff" x="539" y="93.45" width="40" height="40"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x="539" y="93.45" width="40" height="40"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="579" y1="101.45" x2="587" y2="101.45"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="579" y1="125.45" x2="587" y2="125.45"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="539" y1="101.45" x2="531" y2="101.45"/>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="539" y1="125.45" x2="531" y2="125.45"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="587" y1="125.45" x2="634.5" y2="125.45"/>
+    <path style="fill: #ffffff" d="M 638.5 125.45 C 638.5,126.45 637.5,127.45 636.5,127.45 C 635.5,127.45 634.5,126.45 634.5,125.45 C 634.5,124.45 635.5,123.45 636.5,123.45 C 637.5,123.45 638.5,124.45 638.5,125.45z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 638.5 125.45 C 638.5,126.45 637.5,127.45 636.5,127.45 C 635.5,127.45 634.5,126.45 634.5,125.45 C 634.5,124.45 635.5,123.45 636.5,123.45 C 637.5,123.45 638.5,124.45 638.5,125.45"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="587" y1="101.45" x2="634.5" y2="101.45"/>
+    <path style="fill: #ffffff" d="M 638.5 101.45 C 638.5,102.45 637.5,103.45 636.5,103.45 C 635.5,103.45 634.5,102.45 634.5,101.45 C 634.5,100.45 635.5,99.45 636.5,99.45 C 637.5,99.45 638.5,100.45 638.5,101.45z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 638.5 101.45 C 638.5,102.45 637.5,103.45 636.5,103.45 C 635.5,103.45 634.5,102.45 634.5,101.45 C 634.5,100.45 635.5,99.45 636.5,99.45 C 637.5,99.45 638.5,100.45 638.5,101.45"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="181" y1="125.45" x2="162.986" y2="163.246"/>
+    <path style="fill: #000000" d="M 162.986 163.246 C 162.941,163.224 162.917,163.158 162.939,163.113 C 162.96,163.068 163.027,163.044 163.072,163.065 C 163.117,163.087 163.141,163.154 163.119,163.199 C 163.098,163.244 163.031,163.268 162.986,163.246z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 162.986 163.246 C 162.941,163.224 162.917,163.158 162.939,163.113 C 162.96,163.068 163.027,163.044 163.072,163.065 C 163.117,163.087 163.141,163.154 163.119,163.199 C 163.098,163.244 163.031,163.268 162.986,163.246"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="181" y1="101.45" x2="162.986" y2="139.246"/>
+    <path style="fill: #000000" d="M 162.986 139.246 C 162.941,139.224 162.917,139.158 162.939,139.113 C 162.96,139.068 163.027,139.044 163.072,139.065 C 163.117,139.087 163.141,139.154 163.119,139.199 C 163.098,139.244 163.031,139.268 162.986,139.246z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 162.986 139.246 C 162.941,139.224 162.917,139.158 162.939,139.113 C 162.96,139.068 163.027,139.044 163.072,139.065 C 163.117,139.087 163.141,139.154 163.119,139.199 C 163.098,139.244 163.031,139.268 162.986,139.246"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="289" y1="101.45" x2="270.986" y2="139.246"/>
+    <path style="fill: #000000" d="M 270.986 139.246 C 270.941,139.224 270.917,139.158 270.939,139.113 C 270.96,139.068 271.027,139.044 271.072,139.065 C 271.117,139.087 271.141,139.154 271.119,139.199 C 271.098,139.244 271.031,139.268 270.986,139.246z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 270.986 139.246 C 270.941,139.224 270.917,139.158 270.939,139.113 C 270.96,139.068 271.027,139.044 271.072,139.065 C 271.117,139.087 271.141,139.154 271.119,139.199 C 271.098,139.244 271.031,139.268 270.986,139.246"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="289" y1="125.45" x2="270.986" y2="163.246"/>
+    <path style="fill: #000000" d="M 270.986 163.246 C 270.941,163.224 270.917,163.158 270.939,163.113 C 270.96,163.068 271.027,163.044 271.072,163.065 C 271.117,163.087 271.141,163.154 271.119,163.199 C 271.098,163.244 271.031,163.268 270.986,163.246z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 270.986 163.246 C 270.941,163.224 270.917,163.158 270.939,163.113 C 270.96,163.068 271.027,163.044 271.072,163.065 C 271.117,163.087 271.141,163.154 271.119,163.199 C 271.098,163.244 271.031,163.268 270.986,163.246"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="397" y1="125.45" x2="378.986" y2="163.246"/>
+    <path style="fill: #000000" d="M 378.986 163.246 C 378.941,163.224 378.917,163.158 378.939,163.113 C 378.96,163.068 379.027,163.044 379.072,163.065 C 379.117,163.087 379.141,163.154 379.119,163.199 C 379.098,163.244 379.031,163.268 378.986,163.246z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 378.986 163.246 C 378.941,163.224 378.917,163.158 378.939,163.113 C 378.96,163.068 379.027,163.044 379.072,163.065 C 379.117,163.087 379.141,163.154 379.119,163.199 C 379.098,163.244 379.031,163.268 378.986,163.246"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="397" y1="101.45" x2="378.986" y2="139.246"/>
+    <path style="fill: #000000" d="M 378.986 139.246 C 378.941,139.224 378.917,139.158 378.939,139.113 C 378.96,139.068 379.027,139.044 379.072,139.065 C 379.117,139.087 379.141,139.154 379.119,139.199 C 379.098,139.244 379.031,139.268 378.986,139.246z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 378.986 139.246 C 378.941,139.224 378.917,139.158 378.939,139.113 C 378.96,139.068 379.027,139.044 379.072,139.065 C 379.117,139.087 379.141,139.154 379.119,139.199 C 379.098,139.244 379.031,139.268 378.986,139.246"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="505" y1="125.45" x2="486.986" y2="163.246"/>
+    <path style="fill: #000000" d="M 486.986 163.246 C 486.941,163.224 486.917,163.158 486.939,163.113 C 486.96,163.068 487.027,163.044 487.072,163.065 C 487.117,163.087 487.141,163.154 487.119,163.199 C 487.098,163.244 487.031,163.268 486.986,163.246z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 486.986 163.246 C 486.941,163.224 486.917,163.158 486.939,163.113 C 486.96,163.068 487.027,163.044 487.072,163.065 C 487.117,163.087 487.141,163.154 487.119,163.199 C 487.098,163.244 487.031,163.268 486.986,163.246"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="505" y1="101.45" x2="486.986" y2="139.246"/>
+    <path style="fill: #000000" d="M 486.986 139.246 C 486.941,139.224 486.917,139.158 486.939,139.113 C 486.96,139.068 487.027,139.044 487.072,139.065 C 487.117,139.087 487.141,139.154 487.119,139.199 C 487.098,139.244 487.031,139.268 486.986,139.246z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 486.986 139.246 C 486.941,139.224 486.917,139.158 486.939,139.113 C 486.96,139.068 487.027,139.044 487.072,139.065 C 487.117,139.087 487.141,139.154 487.119,139.199 C 487.098,139.244 487.031,139.268 486.986,139.246"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="613" y1="125.45" x2="594.986" y2="163.246"/>
+    <path style="fill: #000000" d="M 594.986 163.246 C 594.941,163.224 594.917,163.158 594.939,163.113 C 594.96,163.068 595.027,163.044 595.072,163.065 C 595.117,163.087 595.141,163.154 595.119,163.199 C 595.098,163.244 595.031,163.268 594.986,163.246z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 594.986 163.246 C 594.941,163.224 594.917,163.158 594.939,163.113 C 594.96,163.068 595.027,163.044 595.072,163.065 C 595.117,163.087 595.141,163.154 595.119,163.199 C 595.098,163.244 595.031,163.268 594.986,163.246"/>
+  </g>
+  <g>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="613" y1="101.45" x2="594.986" y2="139.246"/>
+    <path style="fill: #000000" d="M 594.986 139.246 C 594.941,139.224 594.917,139.158 594.939,139.113 C 594.96,139.068 595.027,139.044 595.072,139.065 C 595.117,139.087 595.141,139.154 595.119,139.199 C 595.098,139.244 595.031,139.268 594.986,139.246z"/>
+    <path style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" d="M 594.986 139.246 C 594.941,139.224 594.917,139.158 594.939,139.113 C 594.96,139.068 595.027,139.044 595.072,139.065 C 595.117,139.087 595.141,139.154 595.119,139.199 C 595.098,139.244 595.031,139.268 594.986,139.246"/>
+  </g>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 4; stroke: #bf00bf" x1="271" y1="93.45" x2="271" y2="129.45"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 4; stroke: #bf00bf" x1="379" y1="93.45" x2="379" y2="129.45"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 4; stroke: #bf00bf" x1="415" y1="93.45" x2="415" y2="129.45"/>
+  <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke-dasharray: 4; stroke: #bf00bf" x1="523" y1="93.45" x2="523" y2="129.45"/>
+  <text font-size="6.77333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="229" y="117.45">
+    <tspan x="229" y="117.45">λ/8</tspan>
+  </text>
+  <text font-size="6.77333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="337" y="117.45">
+    <tspan x="337" y="117.45">λ/8</tspan>
+  </text>
+  <text font-size="6.77333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="445" y="117.45">
+    <tspan x="445" y="117.45">λ/8</tspan>
+  </text>
+  <text font-size="6.77333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="553" y="117.45">
+    <tspan x="553" y="117.45">λ/8</tspan>
+  </text>
+  <text font-size="6.77333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="603" y="97.45">
+    <tspan x="603" y="97.45">0,39</tspan>
+  </text>
+  <text font-size="6.77333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="551" y="89.45">
+    <tspan x="551" y="89.45">1,63</tspan>
+  </text>
+  <text font-size="6.77333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="495" y="97.45">
+    <tspan x="495" y="97.45">2,08</tspan>
+  </text>
+  <text font-size="6.77333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="443" y="89.45">
+    <tspan x="443" y="89.45">1,60</tspan>
+  </text>
+  <text font-size="6.77333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="387" y="97.45">
+    <tspan x="387" y="97.45">2,54</tspan>
+  </text>
+  <text font-size="6.77333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="335" y="89.45">
+    <tspan x="335" y="89.45">1,60</tspan>
+  </text>
+  <text font-size="6.77333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="227" y="89.45">
+    <tspan x="227" y="89.45">1,63</tspan>
+  </text>
+  <text font-size="6.77333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="281" y="97.45">
+    <tspan x="281" y="97.45">2,08</tspan>
+  </text>
+  <text font-size="6.77333" style="fill: #000000;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="173" y="97.45">
+    <tspan x="173" y="97.45">0,39</tspan>
+  </text>
+</svg>

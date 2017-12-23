@@ -1,0 +1,67 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=21,-463,1294,1372,1.22846,0,0>
+  <Grid=10,10,0>
+  <DataSet=TP2_Step_Optimisation_MSTEP.dat>
+  <DataDisplay=TP2_Step_Optimisation_MSTEP.sch>
+  <OpenDisplay=1>
+  <Script=TP2_Step_Optimisation_MSTEP.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Titre>
+  <FrameText1=Auteur :>
+  <FrameText2=Date :>
+  <FrameText3=Version :>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 790 798 477 328 3 #c0c0c0 3 00 1 0 5e+08 3e+09 0 -20 2 1 1 -1 0.5 1 315 0 225 "Fréquence (Hz)" "" "" "">
+	<"TP2_LC:dBS11" #0000ff 0 3 0 0 0>
+	<"dBS11" #ff00ff 0 3 0 0 0>
+	  <Mkr 5.51231e+08 16 -252 4 0 0>
+	  <Mkr 1.47991e+09 196 -246 4 0 0>
+	<"TP2_Step:dBS11_MSTEP" #00ff00 0 3 0 0 0>
+  </Rect>
+  <Rect 170 368 477 328 3 #c0c0c0 3 00 1 0 5e+08 3e+09 0 -50 10 5 1 -1 0.5 1 315 0 225 "Fréquence (Hz)" "" "" "">
+	<"TP2_LC:dBS21" #ff0000 0 3 0 0 0>
+	<"dBS21" #ff00ff 0 3 0 0 0>
+	<"TP2_Step:dBS21_MSTEP" #00ff00 0 3 0 0 0>
+  </Rect>
+  <Rect 180 798 477 328 3 #c0c0c0 3 00 1 0 5e+08 3e+09 0 -5 1 1 1 -1 0.5 1 315 0 225 "Fréquence (Hz)" "" "" "">
+	<"TP2_LC:dBS21" #ff0000 0 3 0 0 0>
+	  <Mkr 1.83874e+09 302 -328 4 0 0>
+	<"dBS21" #ff00ff 0 3 0 0 0>
+	<"TP2_Step:dBS21_MSTEP" #00ff00 0 3 0 0 0>
+  </Rect>
+  <Rect 200 1288 477 328 3 #c0c0c0 3 00 1 0 5e+08 3e+09 0 -2 1 1 1 -1 0.5 1 315 0 225 "Fréquence (Hz)" "" "" "">
+	<"TP2_LC:dBS21" #ff0000 0 3 0 0 0>
+	  <Mkr 1.83874e+09 302 -328 4 0 0>
+	<"dBS21" #ff00ff 0 3 0 0 0>
+	  <Mkr 1.83874e+09 313 -267 4 0 0>
+	<"TP2_Step:dBS21_MSTEP" #00ff00 0 3 0 0 0>
+	  <Mkr 1.04386e+09 5 -73 4 0 0>
+  </Rect>
+  <Tab 440 -147 591 56 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1 315 0 225 "" "" "" "">
+	<"L123" #0000ff 0 8 1 0 0>
+	<"L170" #0000ff 0 8 1 0 0>
+	<"L254" #0000ff 0 8 1 0 0>
+	<"L50" #0000ff 0 8 1 0 0>
+  </Tab>
+  <Tab 500 -267 388 56 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1 315 0 225 "" "" "" "">
+	<"x" #0000ff 0 8 1 0 0>
+	<"x254" #0000ff 0 8 1 0 0>
+  </Tab>
+  <Rect 780 368 477 328 3 #c0c0c0 3 00 1 0 5e+08 3e+09 0 -50 10 5 1 -1 0.5 1 315 0 225 "Fréquence (Hz)" "" "" "">
+	<"TP2_LC:dBS11" #0000ff 0 3 0 0 0>
+	<"dBS11" #ff00ff 0 3 0 0 0>
+	<"TP2_Step:dBS11_MSTEP" #00ff00 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+  <Line 180 1090 330 20 #ffff00 2 1>
+</Paintings>

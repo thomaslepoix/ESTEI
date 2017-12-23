@@ -1,0 +1,35 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,190,1464,1216,1,0,180>
+  <Grid=10,10,0>
+  <DataSet=TP2_LC.dat>
+  <DataDisplay=TP2_LC.sch>
+  <OpenDisplay=1>
+  <Script=TP2_LC.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Titre>
+  <FrameText1=Auteur :>
+  <FrameText2=Date :>
+  <FrameText3=Version :>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 390 968 477 328 3 #c0c0c0 3 00 1 0 5e+08 3e+09 0 -10 1 1 1 -1 0.5 1 315 0 225 "Fréquence (Hz)" "" "" "">
+	<"dBS11" #0000ff 0 3 0 0 0>
+	  <Mkr 1.48622e+09 46 -138 4 0 0>
+	<"dBS21" #ff0000 0 3 0 0 0>
+	  <Mkr 1.83874e+09 44 -238 4 0 0>
+  </Rect>
+  <Rect 390 538 477 328 3 #c0c0c0 3 00 1 5e+08 5e+08 3e+09 0 -50 10 5 1 -1 0.5 1 315 0 225 "Fréquence (Hz)" "" "" "">
+	<"dBS11" #0000ff 0 3 0 0 0>
+	<"dBS21" #ff0000 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>

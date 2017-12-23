@@ -1,0 +1,67 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=31,-676,1317,1212,1.1,0,0>
+  <Grid=10,10,0>
+  <DataSet=TP2_Step_Optimisation_MLIN.dat>
+  <DataDisplay=TP2_Step_Optimisation_MLIN.sch>
+  <OpenDisplay=1>
+  <Script=TP2_Step_Optimisation_MLIN.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Titre>
+  <FrameText1=Auteur :>
+  <FrameText2=Date :>
+  <FrameText3=Version :>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 810 208 477 328 3 #c0c0c0 3 00 1 0 5e+08 3e+09 0 -50 10 5 1 -1 0.5 1 315 0 225 "Fréquence (Hz)" "" "" "">
+	<"TP2_LC:dBS11" #0000ff 0 3 0 0 0>
+	<"dBS11" #ff00ff 0 3 0 0 0>
+	<"TP2_Step:dBS11_MLIN" #00ff00 0 3 0 0 0>
+  </Rect>
+  <Rect 820 638 477 328 3 #c0c0c0 3 00 1 0 5e+08 3e+09 0 -20 2 1 1 -1 0.5 1 315 0 225 "Fréquence (Hz)" "" "" "">
+	<"TP2_LC:dBS11" #0000ff 0 3 0 0 0>
+	<"dBS11" #ff00ff 0 3 0 0 0>
+	  <Mkr 5.46558e+08 16 -252 4 0 0>
+	  <Mkr 1.47991e+09 196 -246 4 0 0>
+	<"TP2_Step:dBS11_MLIN" #00ff00 0 3 0 0 0>
+  </Rect>
+  <Rect 200 208 477 328 3 #c0c0c0 3 00 1 0 5e+08 3e+09 0 -50 10 5 1 -1 0.5 1 315 0 225 "Fréquence (Hz)" "" "" "">
+	<"TP2_LC:dBS21" #ff0000 0 3 0 0 0>
+	<"dBS21" #ff00ff 0 3 0 0 0>
+	<"TP2_Step:dBS21_MLIN" #00ff00 0 3 0 0 0>
+  </Rect>
+  <Rect 210 638 477 328 3 #c0c0c0 3 00 1 0 5e+08 3e+09 0 -5 1 1 1 -1 0.5 1 315 0 225 "Fréquence (Hz)" "" "" "">
+	<"TP2_LC:dBS21" #ff0000 0 3 0 0 0>
+	  <Mkr 1.83874e+09 302 -328 4 0 0>
+	<"dBS21" #ff00ff 0 3 0 0 0>
+	<"TP2_Step:dBS21_MLIN" #00ff00 0 3 0 0 0>
+  </Rect>
+  <Tab 470 -307 591 56 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1 315 0 225 "" "" "" "">
+	<"L123" #0000ff 0 8 1 0 0>
+	<"L170" #0000ff 0 8 1 0 0>
+	<"L254" #0000ff 0 8 1 0 0>
+	<"L50" #0000ff 0 8 1 0 0>
+  </Tab>
+  <Rect 230 1128 477 328 3 #c0c0c0 3 00 1 0 5e+08 3e+09 0 -2 1 1 1 -1 0.5 1 315 0 225 "Fréquence (Hz)" "" "" "">
+	<"TP2_LC:dBS21" #ff0000 0 3 0 0 0>
+	  <Mkr 1.83874e+09 302 -328 4 0 0>
+	<"dBS21" #ff00ff 0 3 0 0 0>
+	  <Mkr 1.83874e+09 323 -207 4 0 0>
+	<"TP2_Step:dBS21_MLIN" #00ff00 0 3 0 0 0>
+	  <Mkr 1.725e+09 11 -301 4 0 0>
+  </Rect>
+  <Tab 600 -469 272 61 3 #c0c0c0 1 00 1 0 1 1 1 0 1 1 1 0 1 1 315 0 225 "" "" "" "">
+	<"x" #0000ff 0 3 1 0 0>
+	<"x254" #0000ff 0 3 1 0 0>
+  </Tab>
+</Diagrams>
+<Paintings>
+  <Line 220 960 370 80 #ffff00 2 1>
+</Paintings>

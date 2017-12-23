@@ -1,0 +1,112 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="466"
+     height="62">
+    <defs/>
+    <g transform=" scale(0.61) translate(-422,-186)">
+        <rect x="819" y="229" width="2" height="2" fill="#000000" stroke="none"
+              pointer-events="none"/>
+        <rect x="919" y="229" width="2" height="2" fill="#000000" stroke="none"
+              pointer-events="none"/>
+        <path d="M 840.36 199.64 L 900.36 200 L 900.36 260 L 840 260 Z"
+              fill="#ffffff" stroke="#000000" stroke-width="2"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 821 230 L 840 230" fill="#000000" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 901 230 L 919 230" fill="#000000" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 890.1 214.44 C 886.24 213.84 885.01 218.72 885.01 218.72 C 880.18 243.49 880.76 244.33 877.21 244.87 C 874.2 245.32 871.06 245.24 865.69 245.1 C 858.23 244.9 861.93 240.51 855.92 218.67 C 855.48 217.09 854.12 213.8 850.23 214.16"
+              fill="none" stroke="#000000" stroke-width="2"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <rect x="839" y="270" width="66" height="13" fill-opacity="0"
+              fill="#dae2f2" stroke="none" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="12px">
+            <text x="872" y="280.5">
+                Coupe-bande
+            </text>
+        </g>
+        <rect x="429" y="229" width="2" height="2" fill="#000000" stroke="none"
+              pointer-events="none"/>
+        <rect x="529" y="229" width="2" height="2" fill="#000000" stroke="none"
+              pointer-events="none"/>
+        <path d="M 450.36 199.64 L 510.36 200 L 510.36 260 L 450 260 Z"
+              fill="#ffffff" stroke="#000000" stroke-width="2"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 431 230 L 450 230" fill="#000000" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 511 230 L 529 230" fill="#000000" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 460.41 215.08 C 490.51 215.26 486.55 224.59 493.18 242.09 C 493.95 244.13 497.31 244.03 500.1 244.12"
+              fill="none" stroke="#000000" stroke-width="2"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <rect x="450" y="270" width="55" height="14" fill-opacity="0"
+              fill="#dae2f2" stroke="none" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="12px">
+            <text x="477.5" y="281">
+                Passe-bas
+            </text>
+        </g>
+        <rect x="559" y="229" width="2" height="2" fill="#000000" stroke="none"
+              pointer-events="none"/>
+        <rect x="659" y="229" width="2" height="2" fill="#000000" stroke="none"
+              pointer-events="none"/>
+        <path d="M 580.36 199.64 L 640.36 200 L 640.36 260 L 580 260 Z"
+              fill="#ffffff" stroke="#000000" stroke-width="2"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 561 230 L 580 230" fill="#000000" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 641 230 L 659 230" fill="#000000" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 630.1 215.25 C 599.67 215.43 603.6 223.26 596.75 241.24 C 596.04 243.12 593.64 244.61 590.41 244.29"
+              fill="none" stroke="#000000" stroke-width="2"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <rect x="580" y="270" width="60" height="14" fill-opacity="0"
+              fill="#dae2f2" stroke="none" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="12px">
+            <text x="610" y="281">
+                Passe-haut
+            </text>
+        </g>
+        <rect x="689" y="229" width="2" height="2" fill="#000000" stroke="none"
+              pointer-events="none"/>
+        <rect x="789" y="229" width="2" height="2" fill="#000000" stroke="none"
+              pointer-events="none"/>
+        <path d="M 710.36 199.64 L 770.36 200 L 770.36 260 L 710 260 Z"
+              fill="#ffffff" stroke="#000000" stroke-width="2"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 691 230 L 710 230" fill="#000000" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 771 230 L 789 230" fill="#000000" stroke="#000000"
+              stroke-width="2" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 760.1 244.9 C 756.24 245.5 755.01 240.62 755.01 240.62 C 750.18 215.85 750.76 215.01 747.21 214.47 C 744.2 214.02 741.06 214.1 735.69 214.24 C 728.23 214.44 731.93 218.83 725.92 240.67 C 725.48 242.25 724.12 245.54 720.23 245.18"
+              fill="none" stroke="#000000" stroke-width="2"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <rect x="709" y="270" width="65" height="13" fill-opacity="0"
+              fill="#dae2f2" stroke="none" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="12px">
+            <text x="741.5" y="280.5">
+                Passe-bande
+            </text>
+        </g>
+    </g>
+</svg>

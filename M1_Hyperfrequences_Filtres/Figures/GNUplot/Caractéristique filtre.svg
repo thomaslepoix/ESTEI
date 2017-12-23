@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"  standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg 
+ width="900" height="500"
+ viewBox="0 0 900 500"
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+
+<title>Gnuplot</title>
+<desc>Produced by GNUPLOT 5.0 patchlevel 4 </desc>
+
+<g id="gnuplot_canvas">
+
+<rect x="0" y="0" width="900" height="500" fill="none"/>
+<defs>
+
+	<circle id='gpDot' r='0.5' stroke-width='0.5'/>
+	<path id='gpPt0' stroke-width='0.190' stroke='currentColor' d='M-1,0 h2 M0,-1 v2'/>
+	<path id='gpPt1' stroke-width='0.190' stroke='currentColor' d='M-1,-1 L1,1 M1,-1 L-1,1'/>
+	<path id='gpPt2' stroke-width='0.190' stroke='currentColor' d='M-1,0 L1,0 M0,-1 L0,1 M-1,-1 L1,1 M-1,1 L1,-1'/>
+	<rect id='gpPt3' stroke-width='0.190' stroke='currentColor' x='-1' y='-1' width='2' height='2'/>
+	<rect id='gpPt4' stroke-width='0.190' stroke='currentColor' fill='currentColor' x='-1' y='-1' width='2' height='2'/>
+	<circle id='gpPt5' stroke-width='0.190' stroke='currentColor' cx='0' cy='0' r='1'/>
+	<use xlink:href='#gpPt5' id='gpPt6' fill='currentColor' stroke='none'/>
+	<path id='gpPt7' stroke-width='0.190' stroke='currentColor' d='M0,-1.33 L-1.33,0.67 L1.33,0.67 z'/>
+	<use xlink:href='#gpPt7' id='gpPt8' fill='currentColor' stroke='none'/>
+	<use xlink:href='#gpPt7' id='gpPt9' stroke='currentColor' transform='rotate(180)'/>
+	<use xlink:href='#gpPt9' id='gpPt10' fill='currentColor' stroke='none'/>
+	<use xlink:href='#gpPt3' id='gpPt11' stroke='currentColor' transform='rotate(45)'/>
+	<use xlink:href='#gpPt11' id='gpPt12' fill='currentColor' stroke='none'/>
+	<path id='gpPt13' stroke-width='0.190' stroke='currentColor' d='M0,1.330 L1.265,0.411 L0.782,-1.067 L-0.782,-1.076 L-1.265,0.411 z'/>
+	<use xlink:href='#gpPt13' id='gpPt14' fill='currentColor' stroke='none'/>
+	<filter id='textbox' filterUnits='objectBoundingBox' x='0' y='0' height='1' width='1'>
+	  <feFlood flood-color='white' flood-opacity='1' result='bgnd'/>
+	  <feComposite in='SourceGraphic' in2='bgnd' operator='atop'/>
+	</filter>
+	<filter id='greybox' filterUnits='objectBoundingBox' x='0' y='0' height='1' width='1'>
+	  <feFlood flood-color='lightgrey' flood-opacity='1' result='grey'/>
+	  <feComposite in='SourceGraphic' in2='grey' operator='atop'/>
+	</filter>
+</defs>
+<g fill="none" color="white" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M94.5,19.5 L94.5,422.3 L870.8,422.3 L870.8,19.5 L94.5,19.5 Z  '/>	<g transform="translate(126.8,59.8)" stroke="none" fill="black" font-family="Arial" font-size="18.00"  text-anchor="start">
+		<text><tspan font-family="Arial" >Pertes d'insertion</tspan></text>
+	</g>
+	<g transform="translate(741.4,110.1)" stroke="none" fill="black" font-family="Arial" font-size="18.00"  text-anchor="start">
+		<text><tspan font-family="Arial" >Ondulation</tspan></text>
+	</g>
+	<g transform="translate(398.6,210.8)" stroke="none" fill="black" font-family="Arial" font-size="18.00"  text-anchor="start">
+		<text><tspan font-family="Arial" >Bande passante à -3dB</tspan></text>
+	</g>
+	<g transform="translate(385.6,143.7)" stroke="none" fill="black" font-family="Arial" font-size="18.00"  text-anchor="start">
+		<text><tspan font-family="Arial" >Bande passante ondulatoire</tspan></text>
+	</g>
+	<g transform="translate(256.2,445.8)" stroke="none" fill="black" font-family="Arial" font-size="18.00"  text-anchor="start">
+		<text><tspan font-family="Arial" >fc l</tspan></text>
+	</g>
+	<g transform="translate(696.1,445.8)" stroke="none" fill="black" font-family="Arial" font-size="18.00"  text-anchor="start">
+		<text><tspan font-family="Arial" >fc h</tspan></text>
+	</g>
+	<g transform="translate(62.2,194.0)" stroke="none" fill="black" font-family="Arial" font-size="18.00"  text-anchor="start">
+		<text><tspan font-family="Arial" >-3</tspan></text>
+	</g>
+	<g transform="translate(62.2,26.2)" stroke="none" fill="black" font-family="Arial" font-size="18.00"  text-anchor="start">
+		<text><tspan font-family="Arial" >0</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(24.3,220.9) rotate(270)" stroke="none" fill="black" font-family="Arial" font-size="24.00"  text-anchor="middle">
+		<text><tspan font-family="Arial" >Amplitude (dB)</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(482.6,494.3)" stroke="none" fill="black" font-family="Arial" font-size="24.00"  text-anchor="middle">
+		<text><tspan font-family="Arial" >Fréquence</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1a" ><title>'~/Documents/ESTEI/M1/Hyperfréquences/TP2/Rapport/Figures/GNUplot/Caractéristique filtre.lines.dat'</title>
+<g fill="none" color="gray" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(192, 192, 192)' stroke-dasharray='2,4'  d='M94.5,187.3 L702.6,187.3 M262.7,422.3 L262.7,187.3 M702.6,422.3 L702.6,187.3 M275.6,120.2 L728.5,120.2
+		M223.9,86.6 L728.5,86.6  '/></g>
+	</g>
+<g fill="none" color="white" stroke="rgb(192, 192, 192)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M94.5,19.5 L94.5,422.3 L870.8,422.3 L870.8,19.5 L94.5,19.5 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M94.5,19.5 L94.5,422.3 L870.8,422.3 L870.8,19.5 L94.5,19.5 Z  '/>	<g transform="translate(126.8,59.8)" stroke="none" fill="black" font-family="Arial" font-size="18.00"  text-anchor="start">
+		<text><tspan font-family="Arial" >Pertes d'insertion</tspan></text>
+	</g>
+	<g transform="translate(741.4,110.1)" stroke="none" fill="black" font-family="Arial" font-size="18.00"  text-anchor="start">
+		<text><tspan font-family="Arial" >Ondulation</tspan></text>
+	</g>
+	<g transform="translate(398.6,210.8)" stroke="none" fill="black" font-family="Arial" font-size="18.00"  text-anchor="start">
+		<text><tspan font-family="Arial" >Bande passante à -3dB</tspan></text>
+	</g>
+	<g transform="translate(385.6,143.7)" stroke="none" fill="black" font-family="Arial" font-size="18.00"  text-anchor="start">
+		<text><tspan font-family="Arial" >Bande passante ondulatoire</tspan></text>
+	</g>
+	<g transform="translate(256.2,445.8)" stroke="none" fill="black" font-family="Arial" font-size="18.00"  text-anchor="start">
+		<text><tspan font-family="Arial" >fc l</tspan></text>
+	</g>
+	<g transform="translate(696.1,445.8)" stroke="none" fill="black" font-family="Arial" font-size="18.00"  text-anchor="start">
+		<text><tspan font-family="Arial" >fc h</tspan></text>
+	</g>
+	<g transform="translate(62.2,194.0)" stroke="none" fill="black" font-family="Arial" font-size="18.00"  text-anchor="start">
+		<text><tspan font-family="Arial" >-3</tspan></text>
+	</g>
+	<g transform="translate(62.2,26.2)" stroke="none" fill="black" font-family="Arial" font-size="18.00"  text-anchor="start">
+		<text><tspan font-family="Arial" >0</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(24.3,220.9) rotate(270)" stroke="none" fill="black" font-family="Arial" font-size="24.00"  text-anchor="middle">
+		<text><tspan font-family="Arial" >Amplitude (dB)</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<g transform="translate(482.6,494.3)" stroke="none" fill="black" font-family="Arial" font-size="24.00"  text-anchor="middle">
+		<text><tspan font-family="Arial" >Fréquence</tspan></text>
+	</g>
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+	<g id="gnuplot_plot_1b" ><title>'~/Documents/ESTEI/M1/Hyperfréquences/TP2/Rapport/Figures/GNUplot/Caractéristique filtre.dat'</title>
+<g fill="none" color="white" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='rgb(148,   0, 211)'  d='M231.5,422.3 L237.6,359.5 L244.1,298.4 L250.7,243.9 L257.2,196.6 L263.7,157.1 L270.3,125.8 L276.8,103.4
+		L283.3,90.2 L289.9,86.7 L296.4,88.0 L303.0,90.9 L309.5,94.9 L316.0,99.6 L322.6,104.7 L329.1,109.6
+		L335.6,114.1 L342.2,117.6 L348.7,119.7 L355.2,120.1 L361.8,118.6 L368.3,115.6 L374.8,111.5 L381.4,106.7
+		L387.9,101.6 L394.4,96.7 L401.0,92.4 L407.5,89.0 L414.0,87.0 L420.6,86.8 L427.1,88.5 L433.6,91.6
+		L440.2,95.8 L446.7,100.6 L453.2,105.7 L459.8,110.6 L466.3,114.9 L472.8,118.1 L479.4,120.0 L485.9,120.0
+		L492.5,118.1 L499.0,114.9 L505.5,110.6 L512.1,105.7 L518.6,100.6 L525.1,95.8 L531.7,91.6 L538.2,88.5
+		L544.7,86.8 L551.3,87.0 L557.8,89.0 L564.3,92.4 L570.9,96.7 L577.4,101.6 L583.9,106.7 L590.5,111.5
+		L597.0,115.6 L603.5,118.6 L610.1,120.1 L616.6,119.7 L623.1,117.6 L629.7,114.1 L636.2,109.6 L642.7,104.7
+		L649.3,99.6 L655.8,94.9 L662.3,90.9 L668.9,88.0 L675.4,86.7 L682.0,90.2 L688.5,103.4 L695.0,125.8
+		L701.6,157.1 L708.1,196.6 L714.6,243.9 L721.2,298.4 L727.7,359.5 L733.8,422.3  '/></g>
+	</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="black" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+	<path stroke='black'  d='M94.5,19.5 L94.5,422.3 L870.8,422.3 L870.8,19.5 L94.5,19.5 Z  '/></g>
+<g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
+</g>
+</g>
+</svg>
+

@@ -1,0 +1,45 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,30,1577,892,1.11678,212,60>
+  <Grid=10,10,0>
+  <DataSet=TP2_Large-bande.dat>
+  <DataDisplay=TP2_Large-bande.sch>
+  <OpenDisplay=1>
+  <Script=TP2_Large-bande.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Titre>
+  <FrameText1=Auteur :>
+  <FrameText2=Date :>
+  <FrameText3=Version :>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 370 808 477 328 3 #c0c0c0 3 00 1 0 5e+09 3e+10 1 -10 1 1 1 -1 0.5 1 315 0 225 "Fréquence (Hz)" "" "" "">
+	<"dBS11_LC" #0000ff 0 3 0 0 0>
+	<"dBS11_Step" #00ff00 0 3 0 0 0>
+	<"dBS11_Stub" #ff00ff 0 3 0 0 0>
+  </Rect>
+  <Rect 1060 808 477 328 3 #c0c0c0 3 00 0 0 5e+09 1e+10 1 -10 1 1 1 -1 0.5 1 315 0 225 "Fréquence (Hz)" "" "" "">
+	<"dBS11_LC" #0000ff 0 3 0 0 0>
+	<"dBS11_Step" #00ff00 0 3 0 0 0>
+	<"dBS11_Stub" #ff00ff 0 3 0 0 0>
+  </Rect>
+  <Rect 1060 378 477 328 3 #c0c0c0 3 00 0 0 5e+09 1e+10 1 -230.605 50 20.9641 1 -1 0.5 1 315 0 225 "Fréquence (Hz)" "" "" "">
+	<"dBS21_LC" #0000ff 0 3 0 0 0>
+	<"dBS21_Step" #00ff00 0 3 0 0 0>
+	<"dBS21_Stub" #ff00ff 0 3 0 0 0>
+  </Rect>
+  <Rect 370 378 477 328 3 #c0c0c0 3 00 1 0 5e+09 3e+10 1 -50 10 5 1 -1 0.5 1 315 0 225 "Fréquence (Hz)" "" "" "">
+	<"dBS21_LC" #0000ff 0 3 0 0 0>
+	<"dBS21_Step" #00ff00 0 3 0 0 0>
+	<"dBS21_Stub" #ff00ff 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>

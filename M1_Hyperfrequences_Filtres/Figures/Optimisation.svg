@@ -1,0 +1,112 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="481"
+     height="338">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%"
+                        id="mx-gradient-ffffff-1-ffffff-1-s-0">
+            <stop offset="0%" style="stop-color:#ffffff"/>
+            <stop offset="100%" style="stop-color:#ffffff"/>
+        </linearGradient>
+    </defs>
+    <g transform=" scale(0.89) translate(-131.6,-131.2)">
+        <rect x="320" y="160" width="104" height="40" rx="2.69" ry="2.69"
+              fill="url(#mx-gradient-ffffff-1-ffffff-1-s-0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="11.200000000000001px">
+            <text x="371.5" y="183.5">
+                Simulation
+            </text>
+        </g>
+        <rect x="136" y="352" width="104" height="40" rx="2.69" ry="2.69"
+              fill="url(#mx-gradient-ffffff-1-ffffff-1-s-0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="11.200000000000001px">
+            <text x="187.5" y="368.7">
+                Fabrication
+            </text>
+            <text x="187.5" y="382.3">
+                Mesures
+            </text>
+        </g>
+        <rect x="424" y="352" width="104" height="40" rx="2.69" ry="2.69"
+              fill="url(#mx-gradient-ffffff-1-ffffff-1-s-0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="11.200000000000001px">
+            <text x="475.5" y="375.5">
+                Optimisation
+            </text>
+        </g>
+        <rect x="320" y="216" width="104" height="40" rx="2.69" ry="2.69"
+              fill="url(#mx-gradient-ffffff-1-ffffff-1-s-0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="11.200000000000001px">
+            <text x="371.5" y="239.5">
+                Rétro-Simulation
+            </text>
+        </g>
+        <rect x="256" y="352" width="104" height="40" rx="2.69" ry="2.69"
+              fill="url(#mx-gradient-ffffff-1-ffffff-1-s-0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="11.200000000000001px">
+            <text x="307.5" y="368.7">
+                Fabrication
+            </text>
+            <text x="307.5" y="382.3">
+                Mesures
+            </text>
+        </g>
+        <rect x="544" y="352" width="104" height="40" rx="2.69" ry="2.69"
+              fill="url(#mx-gradient-ffffff-1-ffffff-1-s-0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="11.200000000000001px">
+            <text x="595.5" y="375.5">
+                Optimisation
+            </text>
+        </g>
+        <path d="M 424 180 Q 596 180 596 346.61" fill="none" stroke="#000000"
+              stroke-width="1.6" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 596 350.21 L 593.6 345.41 L 596 346.61 L 598.4 345.41 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.6"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 424 240 Q 476 240 476 346.61" fill="none" stroke="#000000"
+              stroke-width="1.6" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 476 350.21 L 473.6 345.41 L 476 346.61 L 478.4 345.41 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.6"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 314.61 236 Q 184 236 184 352" fill="none" stroke="#000000"
+              stroke-width="1.6" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 318.21 236 L 313.41 238.4 L 314.61 236 L 313.41 233.6 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.6"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 476 392 Q 476 432 390 432 Q 304 432 304 397.39" fill="none"
+              stroke="#000000" stroke-width="1.6" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 304 393.79 L 306.4 398.59 L 304 397.39 L 301.6 398.59 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.6"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 596 392 Q 596 504 390 504 Q 184 504 184 397.39" fill="none"
+              stroke="#000000" stroke-width="1.6" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 184 393.79 L 186.4 398.59 L 184 397.39 L 181.6 398.59 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.6"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 200 136 Q 200 184 314.61 184" fill="none" stroke="#000000"
+              stroke-width="1.6" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 318.21 184 L 313.41 186.4 L 314.61 184 L 313.41 181.6 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.6"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 304 352 Q 304 288 356 288 Q 408 288 408 312 Q 408 336 388 336 Q 368 336 368 320 Q 368 304 380 304 Q 392 304 392 314.61"
+              fill="none" stroke="#000000" stroke-width="1.6"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 392 318.21 L 389.6 313.41 L 392 314.61 L 394.4 313.41 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.6"
+              stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+</svg>

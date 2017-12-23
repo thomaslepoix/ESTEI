@@ -1,0 +1,121 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="939"
+     height="274">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%"
+                        id="mx-gradient-000000-1-000000-1-s-0">
+            <stop offset="0%" style="stop-color:#000000"/>
+            <stop offset="100%" style="stop-color:#000000"/>
+        </linearGradient>
+    </defs>
+    <g transform=" scale(0.87) translate(-215.5,-41.09375)">
+        <rect x="220" y="190" width="240" height="60"
+              fill="url(#mx-gradient-000000-1-000000-1-s-0)" stroke="#000000"
+              transform="translate(340,0)scale(-1,1)translate(-340,0)"
+              pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="12px">
+            <text x="340" y="156">
+                g=1
+            </text>
+            <text x="340" y="170">
+                Z=50Ω
+            </text>
+            <text x="340" y="184">
+                l=λ/4
+            </text>
+        </g>
+        <rect x="460" y="90" width="60" height="260"
+              fill="url(#mx-gradient-000000-1-000000-1-s-0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="12px">
+            <text x="490" y="56">
+                g=1,70
+            </text>
+            <text x="490" y="70">
+                Z=10Ω
+            </text>
+            <text x="490" y="84">
+                C=1,88pF
+            </text>
+        </g>
+        <rect x="520" y="210" width="130" height="20"
+              fill="url(#mx-gradient-000000-1-000000-1-s-0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="12px">
+            <text x="585" y="176">
+                g=1,23
+            </text>
+            <text x="585" y="190">
+                Z=96Ω
+            </text>
+            <text x="585" y="204">
+                L=3,42nF
+            </text>
+        </g>
+        <rect x="650" y="90" width="110" height="260"
+              fill="url(#mx-gradient-000000-1-000000-1-s-0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="12px">
+            <text x="705" y="56">
+                g=2,54
+            </text>
+            <text x="705" y="70">
+                Z=10Ω
+            </text>
+            <text x="705" y="84">
+                C=2,82pF
+            </text>
+        </g>
+        <rect x="890" y="90" width="60" height="260"
+              fill="url(#mx-gradient-000000-1-000000-1-s-0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="12px">
+            <text x="920" y="56">
+                g=1,70
+            </text>
+            <text x="920" y="70">
+                Z=10Ω
+            </text>
+            <text x="920" y="84">
+                C=1,88pF
+            </text>
+        </g>
+        <rect x="760" y="210" width="130" height="20"
+              fill="url(#mx-gradient-000000-1-000000-1-s-0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="12px">
+            <text x="825" y="176">
+                g=1,23
+            </text>
+            <text x="825" y="190">
+                Z=96Ω
+            </text>
+            <text x="825" y="204">
+                L=3,42nF
+            </text>
+        </g>
+        <rect x="950" y="190" width="240" height="60"
+              fill="url(#mx-gradient-000000-1-000000-1-s-0)" stroke="#000000"
+              transform="translate(1070,0)scale(-1,1)translate(-1070,0)"
+              pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="12px">
+            <text x="1070" y="156">
+                g=1
+            </text>
+            <text x="1070" y="170">
+                Z=50Ω
+            </text>
+            <text x="1070" y="184">
+                l=λ/4
+            </text>
+        </g>
+    </g>
+</svg>

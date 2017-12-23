@@ -1,0 +1,50 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,-30,1317,876,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=TP2_Step_Mesure_MLIN.dat>
+  <DataDisplay=TP2_Step_Mesure_MLIN.sch>
+  <OpenDisplay=1>
+  <Script=TP2_Step_Mesure_MLIN.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Titre>
+  <FrameText1=Auteur :>
+  <FrameText2=Date :>
+  <FrameText3=Version :>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Rect 800 378 477 328 3 #c0c0c0 3 00 0 1e+09 5e+08 3e+09 0 -50 10 5 1 -1 0.5 1 315 0 225 "Fréquence (Hz)" "" "" "">
+	<"TP2_LC:dBS11" #0000ff 0 3 0 0 0>
+	<"dBS11" #ff00ff 0 3 0 0 0>
+	<"TP2_Step_Optimisation_MLIN:dBS11" #00ff00 0 3 0 0 0>
+  </Rect>
+  <Rect 190 378 477 328 3 #c0c0c0 3 00 0 1e+09 5e+08 3e+09 0 -50 10 5 1 -1 0.5 1 315 0 225 "Fréquence (Hz)" "" "" "">
+	<"TP2_LC:dBS21" #ff0000 0 3 0 0 0>
+	<"dBS21" #ff00ff 0 3 0 0 0>
+	  <Mkr 1.83874e+09 64 -125 4 0 0>
+	<"TP2_Step_Optimisation_MLIN:dBS21" #00ff00 0 3 0 0 0>
+  </Rect>
+  <Rect 200 808 477 328 3 #c0c0c0 3 00 0 1e+09 5e+08 3e+09 0 -5 1 1 1 -1 0.5 1 315 0 225 "Fréquence (Hz)" "" "" "">
+	<"TP2_LC:dBS21" #ff0000 0 3 0 0 0>
+	  <Mkr 1.83874e+09 302 -328 4 0 0>
+	<"dBS21" #ff00ff 0 3 0 0 0>
+	  <Mkr 1.57749e+09 266 -136 4 0 0>
+	<"TP2_Step_Optimisation_MLIN:dBS21" #00ff00 0 3 0 0 0>
+	  <Mkr 1.83874e+09 222 -245 4 0 0>
+  </Rect>
+  <Rect 810 808 477 328 3 #c0c0c0 3 00 0 1e+09 5e+08 3e+09 0 -20 2 1 1 -1 0.5 1 315 0 225 "Fréquence (Hz)" "" "" "">
+	<"TP2_LC:dBS11" #0000ff 0 3 0 0 0>
+	<"dBS11" #ff00ff 0 3 0 0 0>
+	  <Mkr 1.26964e+09 26 -296 4 0 0>
+	<"TP2_Step_Optimisation_MLIN:dBS11" #00ff00 0 3 0 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>

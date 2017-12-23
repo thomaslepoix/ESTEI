@@ -1,0 +1,123 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1134"
+     height="334">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%"
+                        id="mx-gradient-000000-1-000000-1-s-0">
+            <stop offset="0%" style="stop-color:#000000"/>
+            <stop offset="100%" style="stop-color:#000000"/>
+        </linearGradient>
+    </defs>
+    <g transform=" scale(0.89) translate(-259.4,-50.671875)">
+        <rect x="264" y="228" width="288" height="72"
+              fill="url(#mx-gradient-000000-1-000000-1-s-0)" stroke="#000000"
+              stroke-width="1.2"
+              transform="translate(408,0)scale(-1,1)translate(-408,0)"
+              pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="14.399999999999999px">
+            <text x="408" y="187.4">
+                g=1
+            </text>
+            <text x="408" y="204.2">
+                Z=50Ω
+            </text>
+            <text x="408" y="221">
+                l=λ/4
+            </text>
+        </g>
+        <rect x="552" y="108" width="72" height="312"
+              fill="url(#mx-gradient-000000-1-000000-1-s-0)" stroke="#000000"
+              stroke-width="1.2" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="14.399999999999999px">
+            <text x="588" y="67.4">
+                g=1,70
+            </text>
+            <text x="588" y="84.2">
+                Z=10Ω
+            </text>
+            <text x="588" y="101">
+                C=3,126pF
+            </text>
+        </g>
+        <rect x="624" y="252" width="156" height="24"
+              fill="url(#mx-gradient-000000-1-000000-1-s-0)" stroke="#000000"
+              stroke-width="1.2" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="14.399999999999999px">
+            <text x="702" y="211.4">
+                g=1,23
+            </text>
+            <text x="702" y="228.2">
+                Z=96Ω
+            </text>
+            <text x="702" y="245">
+                L=5,633nH
+            </text>
+        </g>
+        <rect x="780" y="108" width="132" height="312"
+              fill="url(#mx-gradient-000000-1-000000-1-s-0)" stroke="#000000"
+              stroke-width="1.2" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="14.399999999999999px">
+            <text x="846" y="67.4">
+                g=2,54
+            </text>
+            <text x="846" y="84.2">
+                Z=10Ω
+            </text>
+            <text x="846" y="101">
+                C=4,656pF
+            </text>
+        </g>
+        <rect x="1068" y="108" width="72" height="312"
+              fill="url(#mx-gradient-000000-1-000000-1-s-0)" stroke="#000000"
+              stroke-width="1.2" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="14.399999999999999px">
+            <text x="1104" y="67.4">
+                g=1,70
+            </text>
+            <text x="1104" y="84.2">
+                Z=10Ω
+            </text>
+            <text x="1104" y="101">
+                C=3,126pF
+            </text>
+        </g>
+        <rect x="912" y="252" width="156" height="24"
+              fill="url(#mx-gradient-000000-1-000000-1-s-0)" stroke="#000000"
+              stroke-width="1.2" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="14.399999999999999px">
+            <text x="990" y="211.4">
+                g=1,23
+            </text>
+            <text x="990" y="228.2">
+                Z=96Ω
+            </text>
+            <text x="990" y="245">
+                L=5,633nH
+            </text>
+        </g>
+        <rect x="1140" y="228" width="288" height="72"
+              fill="url(#mx-gradient-000000-1-000000-1-s-0)" stroke="#000000"
+              stroke-width="1.2"
+              transform="translate(1284,0)scale(-1,1)translate(-1284,0)"
+              pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="14.399999999999999px">
+            <text x="1284" y="187.4">
+                g=1
+            </text>
+            <text x="1284" y="204.2">
+                Z=50Ω
+            </text>
+            <text x="1284" y="221">
+                l=λ/4
+            </text>
+        </g>
+    </g>
+</svg>
