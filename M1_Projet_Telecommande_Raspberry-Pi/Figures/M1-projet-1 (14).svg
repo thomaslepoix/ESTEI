@@ -1,0 +1,360 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="431"
+     height="480">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%"
+                        id="mx-gradient-ff7f00-1-ff7f00-1-s-0">
+            <stop offset="0%" style="stop-color:#ff7f00"/>
+            <stop offset="100%" style="stop-color:#ff7f00"/>
+        </linearGradient>
+    </defs>
+    <g transform=" scale(0.92) translate(-275.65,-989.6499999999999)">
+        <path d="M 441 1199.1 L 441 1183 L 581 1183 L 581 1199.1 Z"
+              fill="url(#mx-gradient-ff7f00-1-ff7f00-1-s-0)" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 441 1199.1 L 441 1344 L 581 1344 L 581 1199.1" fill="none"
+              stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="8.399999999999999px">
+            <text x="510.5" y="1193.85">
+                ledtwinkle()
+            </text>
+        </g>
+        <rect x="469" y="1225" width="82.6" height="35" rx="2.35" ry="2.35"
+              fill="none" stroke="#000000" pointer-events="none"/>
+        <path d="M 480.8 1225 L 480.8 1260" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 539.8 1225 L 539.8 1260" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="8.399999999999999px">
+            <text x="509.8" y="1239.9">
+                Délai
+            </text>
+            <text x="509.8" y="1249.7">
+                200ms
+            </text>
+        </g>
+        <rect x="469" y="1281" width="82.6" height="35" rx="2.35" ry="2.35"
+              fill="none" stroke="#000000" pointer-events="none"/>
+        <path d="M 480.8 1281 L 480.8 1316" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 539.8 1281 L 539.8 1316" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="8.399999999999999px">
+            <text x="509.8" y="1295.9">
+                Clignotement
+            </text>
+            <text x="509.8" y="1305.7">
+                LED
+            </text>
+        </g>
+        <path d="M 510.3 1260 L 510.3 1276.28" fill="none" stroke="#000000"
+              stroke-width="1.4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 510.3 1279.43 L 508.2 1275.23 L 510.3 1276.28 L 512.4 1275.23 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 602 1010.1 L 602 994 L 742 994 L 742 1010.1 Z"
+              fill="url(#mx-gradient-ff7f00-1-ff7f00-1-s-0)" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 602 1010.1 L 602 1505 L 742 1505 L 742 1010.1" fill="none"
+              stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="8.399999999999999px">
+            <text x="671.5" y="1004.85">
+                resetnet
+            </text>
+        </g>
+        <rect x="630" y="1148" width="82.6" height="35" rx="2.35" ry="2.35"
+              fill="none" stroke="#000000" pointer-events="none"/>
+        <path d="M 641.8 1148 L 641.8 1183" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 700.8 1148 L 700.8 1183" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="8.399999999999999px">
+            <text x="670.8" y="1162.9">
+                Clignotement
+            </text>
+            <text x="670.8" y="1172.7">
+                LED
+            </text>
+        </g>
+        <rect x="630" y="1204" width="82.6" height="35" rx="2.35" ry="2.35"
+              fill="none" stroke="#000000" pointer-events="none"/>
+        <path d="M 641.8 1204 L 641.8 1239" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 700.8 1204 L 700.8 1239" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="8.399999999999999px">
+            <text x="670.8" y="1218.9">
+                Délai
+            </text>
+            <text x="670.8" y="1228.7">
+                2s
+            </text>
+        </g>
+        <path d="M 671.3 1183 L 671.3 1199.28" fill="none" stroke="#000000"
+              stroke-width="1.4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 671.3 1202.43 L 669.2 1198.23 L 671.3 1199.28 L 673.4 1198.23 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="630" y="1393" width="82.6" height="35" rx="2.35" ry="2.35"
+              fill="none" stroke="#000000" pointer-events="none"/>
+        <path d="M 641.8 1393 L 641.8 1428" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 700.8 1393 L 700.8 1428" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="8.399999999999999px">
+            <text x="670.8" y="1403">
+                Arrêt
+            </text>
+            <text x="670.8" y="1412.8">
+                Surveillance
+            </text>
+            <text x="670.8" y="1422.6">
+                Bouton OFF
+            </text>
+        </g>
+        <path d="M 673.71 1085.52 L 713.14 1104.53 C 713.68 1104.88 714 1105.42 714 1106 C 714 1106.57 713.68 1107.11 713.14 1107.46 L 673.71 1126.47 C 672.65 1127 671.35 1127 670.29 1126.47 L 630.86 1107.46 C 630.32 1107.11 630 1106.57 630 1106 C 630 1105.42 630.32 1104.88 630.86 1104.53 L 670.29 1085.52 C 671.35 1085 672.65 1085 673.71 1085.52 Z"
+              fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="8.399999999999999px">
+            <text x="671.5" y="1098.5">
+                Connecté
+            </text>
+            <text x="671.5" y="1108.3">
+                à MASTER_SE
+            </text>
+            <text x="671.5" y="1118.1">
+                ?
+            </text>
+        </g>
+        <rect x="630" y="1029" width="82.6" height="35" rx="2.35" ry="2.35"
+              fill="none" stroke="#000000" pointer-events="none"/>
+        <path d="M 641.8 1029 L 641.8 1064" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 700.8 1029 L 700.8 1064" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="8.399999999999999px">
+            <text x="670.8" y="1039">
+                Check
+            </text>
+            <text x="670.8" y="1048.8">
+                Bouton
+            </text>
+            <text x="670.8" y="1058.6">
+                OFF
+            </text>
+        </g>
+        <path d="M 280 1080.1 L 280 1064 L 420 1064 L 420 1080.1 Z"
+              fill="url(#mx-gradient-ff7f00-1-ff7f00-1-s-0)" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 280 1080.1 L 280 1281 L 420 1281 L 420 1080.1" fill="none"
+              stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="8.399999999999999px">
+            <text x="349.5" y="1074.85">
+                powerbutton()
+            </text>
+        </g>
+        <rect x="308" y="1225" width="82.6" height="35" rx="2.35" ry="2.35"
+              fill="none" stroke="#000000" pointer-events="none"/>
+        <path d="M 319.8 1225 L 319.8 1260" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 378.8 1225 L 378.8 1260" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="8.399999999999999px">
+            <text x="348.8" y="1239.9">
+                Extinction
+            </text>
+            <text x="348.8" y="1249.7">
+                Système
+            </text>
+        </g>
+        <path d="M 350 1204 L 349.5 1204 Q 349 1204 349 1211 L 349 1220.28"
+              fill="none" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 349 1223.43 L 346.9 1219.23 L 349 1220.28 L 351.1 1219.23 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 351.71 1162.52 L 391.14 1181.53 C 391.68 1181.88 392 1182.42 392 1183 C 392 1183.57 391.68 1184.11 391.14 1184.46 L 351.71 1203.47 C 350.65 1204 349.35 1204 348.29 1203.47 L 308.86 1184.46 C 308.32 1184.11 308 1183.57 308 1183 C 308 1182.42 308.32 1181.88 308.86 1181.53 L 348.29 1162.52 C 349.35 1162 350.65 1162 351.71 1162.52 Z"
+              fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="8.399999999999999px">
+            <text x="349.5" y="1175.5">
+                Bouton
+            </text>
+            <text x="349.5" y="1185.3">
+                OFF
+            </text>
+            <text x="349.5" y="1195.1">
+                Enfoncé?
+            </text>
+        </g>
+        <path d="M 630 1047 L 357 1047 Q 350 1047 350 1053.14 L 350 1059.28"
+              fill="none" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 350 1062.43 L 347.9 1058.23 L 350 1059.28 L 352.1 1058.23 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 672 1064 L 672 1080.28" fill="none" stroke="#000000"
+              stroke-width="1.4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 672 1083.43 L 669.9 1079.23 L 672 1080.28 L 674.1 1079.23 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 672 1128.4 L 672 1143.28" fill="none" stroke="#000000"
+              stroke-width="1.4" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="672" cy="1127" rx="1.4" ry="1.4" fill="#000000"
+                 stroke="#000000" stroke-width="1.4" pointer-events="none"/>
+        <path d="M 672 1146.43 L 669.9 1142.23 L 672 1143.28 L 674.1 1142.23 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 630 1166 L 518 1166 Q 511 1166 511 1172.14 L 511 1178.28"
+              fill="none" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 511 1181.43 L 508.9 1177.23 L 511 1178.28 L 513.1 1177.23 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="630" y="1260" width="82.6" height="35" rx="2.35" ry="2.35"
+              fill="none" stroke="#000000" pointer-events="none"/>
+        <path d="M 641.8 1260 L 641.8 1295" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 700.8 1260 L 700.8 1295" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="8.399999999999999px">
+            <text x="670.8" y="1270">
+                Tentative
+            </text>
+            <text x="670.8" y="1279.8">
+                de
+            </text>
+            <text x="670.8" y="1289.6">
+                Connexion
+            </text>
+        </g>
+        <path d="M 671.3 1239 L 671.3 1255.28" fill="none" stroke="#000000"
+              stroke-width="1.4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 671.3 1258.43 L 669.2 1254.23 L 671.3 1255.28 L 673.4 1254.23 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="308" y="1106" width="82.6" height="35" rx="2.35" ry="2.35"
+              fill="none" stroke="#000000" pointer-events="none"/>
+        <path d="M 319.8 1106 L 319.8 1141" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 378.8 1106 L 378.8 1141" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="8.399999999999999px">
+            <text x="348.8" y="1120.9">
+                Délai
+            </text>
+            <text x="348.8" y="1130.7">
+                500ms
+            </text>
+        </g>
+        <path d="M 349.3 1141 L 349.3 1157.28" fill="none" stroke="#000000"
+              stroke-width="1.4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 349.3 1160.43 L 347.2 1156.23 L 349.3 1157.28 L 351.4 1156.23 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 306.6 1183 L 300.3 1183 Q 294 1183 294 1176 L 294 1099 Q 294 1092 301 1092 L 343 1092 Q 350 1092 350 1096.64 L 350 1101.28"
+              fill="none" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="308" cy="1183" rx="1.4" ry="1.4" fill="#000000"
+                 stroke="#000000" stroke-width="1.4" pointer-events="none"/>
+        <path d="M 350 1104.43 L 347.9 1100.23 L 350 1101.28 L 352.1 1100.23 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 511 1316 L 511 1323 Q 511 1330 504 1330 L 462 1330 Q 455 1330 455 1323 L 455 1218 Q 455 1211 462 1211 L 504 1211 Q 511 1211 511 1215.64 L 511 1220.28"
+              fill="none" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 511 1223.43 L 508.9 1219.23 L 511 1220.28 L 513.1 1219.23 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="630" y="1316" width="82.6" height="35" rx="2.35" ry="2.35"
+              fill="none" stroke="#000000" pointer-events="none"/>
+        <path d="M 641.8 1316 L 641.8 1351" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 700.8 1316 L 700.8 1351" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="8.399999999999999px">
+            <text x="670.8" y="1330.9">
+                Arrêt
+            </text>
+            <text x="670.8" y="1340.7">
+                Clignotement
+            </text>
+        </g>
+        <path d="M 671.3 1295 L 671.3 1311.28" fill="none" stroke="#000000"
+              stroke-width="1.4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 671.3 1314.43 L 669.2 1310.23 L 671.3 1311.28 L 673.4 1310.23 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 630 1334 L 581 1334" fill="none" stroke="#000000"
+              stroke-width="1.4" stroke-miterlimit="10"
+              stroke-dasharray="4.199999999999999 4.199999999999999"
+              pointer-events="none"/>
+        <ellipse cx="585" cy="1334" rx="3.5" ry="3.5"
+                 fill="url(#mx-gradient-ff7f00-1-ff7f00-1-s-0)" stroke="#000000"
+                 pointer-events="none"/>
+        <path d="M 582 1336 L 587 1331" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 582 1331 L 587 1336" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 671 1351 L 671.5 1351 Q 672 1351 672 1358 L 672 1361.5 Q 672 1365 665 1365 L 623 1365 Q 616 1365 616 1358 L 616 1078 Q 616 1071 623 1071 L 665 1071 Q 672 1071 672 1075.64 L 672 1080.28"
+              fill="none" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 672 1083.43 L 669.9 1079.23 L 672 1080.28 L 674.1 1079.23 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 714 1106 L 721 1106 Q 728 1106 728 1113 L 728 1372 Q 728 1379 721 1379 L 679 1379 Q 672 1379 672 1383.64 L 672 1388.28"
+              fill="none" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 672 1391.43 L 669.9 1387.23 L 672 1388.28 L 674.1 1387.23 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 630 1411 L 357 1411 Q 350 1411 350 1404 L 350 1281"
+              fill="none" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10"
+              stroke-dasharray="4.199999999999999 4.199999999999999"
+              pointer-events="none"/>
+        <ellipse cx="361" cy="1292" rx="3.5" ry="3.5"
+                 fill="url(#mx-gradient-ff7f00-1-ff7f00-1-s-0)" stroke="#000000"
+                 pointer-events="none"/>
+        <path d="M 358 1294 L 363 1289" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 358 1289 L 363 1294" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="630" y="1449" width="82.6" height="35" rx="2.35" ry="2.35"
+              fill="none" stroke="#000000" pointer-events="none"/>
+        <path d="M 641.8 1449 L 641.8 1484" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 700.8 1449 L 700.8 1484" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="8.399999999999999px">
+            <text x="670.8" y="1463.9">
+                Allumer
+            </text>
+            <text x="670.8" y="1473.7">
+                LED
+            </text>
+        </g>
+        <path d="M 671 1428 L 671 1444.28" fill="none" stroke="#000000"
+              stroke-width="1.4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 671 1447.43 L 668.9 1443.23 L 671 1444.28 L 673.1 1443.23 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+</svg>

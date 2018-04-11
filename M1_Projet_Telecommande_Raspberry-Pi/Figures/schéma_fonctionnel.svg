@@ -1,0 +1,183 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1069"
+     height="335">
+    <defs/>
+    <g transform=" scale(0.89) translate(-335.5,-395.5)">
+        <rect x="560" y="400" width="140" height="330" rx="9.4" ry="9.4"
+              fill="none" stroke="#000000" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="14px">
+            <text x="630" y="746">
+                IHM de la
+            </text>
+            <text x="630" y="763">
+                télécommande
+            </text>
+        </g>
+        <rect x="800" y="400" width="140" height="330" rx="9.4" ry="9.4"
+              fill="none" stroke="#000000" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="14px">
+            <text x="870" y="746">
+                Raspberry Pi
+            </text>
+            <text x="870" y="763">
+                Zero W
+            </text>
+        </g>
+        <rect x="560" y="460" width="60" height="50" fill="none"
+              stroke="#000000" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="14px">
+            <text x="590" y="490">
+                LED
+            </text>
+        </g>
+        <rect x="560" y="620" width="60" height="50" fill="none"
+              stroke="#000000" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="14px">
+            <text x="590" y="650">
+                Boutons
+            </text>
+        </g>
+        <rect x="800" y="540" width="60" height="50" fill="none"
+              stroke="#000000" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="14px">
+            <text x="830" y="570">
+                GPIO
+            </text>
+        </g>
+        <rect x="880" y="540" width="60" height="50" fill="none"
+              stroke="#000000" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="14px">
+            <text x="910" y="570">
+                Wifi
+            </text>
+        </g>
+        <ellipse cx="370" cy="515" rx="15" ry="15" fill="none" stroke="#000000"
+                 pointer-events="none"/>
+        <path d="M 370 530 L 370 580 M 370 540 L 340 540 M 370 540 L 400 540 M 370 580 L 340 620 M 370 580 L 400 620"
+              fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <ellipse cx="1375" cy="565" rx="55" ry="55" fill="none" stroke="#000000"
+                 pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="14px">
+            <text x="1375" y="570">
+                Internet
+            </text>
+        </g>
+        <path d="M 706.74 565 L 793.26 565" fill="none" stroke="#000000"
+              stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 702.24 565 L 708.24 562 L 706.74 565 L 708.24 568 Z"
+              fill="#000000" stroke="#000000" stroke-width="2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 797.76 565 L 791.76 568 L 793.26 565 L 791.76 562 Z"
+              fill="#000000" stroke="#000000" stroke-width="2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1090" y="540" width="120" height="50" rx="3.36" ry="3.36"
+              fill="none" stroke="#000000" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="14px">
+            <text x="1150" y="561.5">
+                Routeur
+            </text>
+            <text x="1150" y="578.5">
+                MASTER_SE
+            </text>
+        </g>
+        <path d="M 1110 540 L 1090.89 501.79" fill="none" stroke="#000000"
+              stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="1090" cy="500" rx="2" ry="2" fill="none" stroke="#000000"
+                 stroke-width="2" pointer-events="none"/>
+        <path d="M 1190 540 L 1209.11 501.79" fill="none" stroke="#000000"
+              stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="1210" cy="500" rx="2" ry="2" fill="none" stroke="#000000"
+                 stroke-width="2" pointer-events="none"/>
+        <path d="M 940 565 L 1083.26 565" fill="none" stroke="#000000"
+              stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1087.76 565 L 1081.76 568 L 1083.26 565 L 1081.76 562 Z"
+              fill="#000000" stroke="#000000" stroke-width="2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="13px">
+            <rect fill="#FFFFFF" stroke="none" x="968" y="568" width="95"
+                  height="31" stroke-width="0"/>
+            <text x="1015" y="579">
+                Commande
+            </text>
+            <text x="1015" y="595">
+                de déplacement
+            </text>
+        </g>
+        <path d="M 626.74 490 Q 660 490 660 525 Q 660 560 700 560" fill="none"
+              stroke="#000000" stroke-width="2" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 622.24 490 L 628.24 487 L 626.74 490 L 628.24 493 Z"
+              fill="#000000" stroke="#000000" stroke-width="2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 620 640 Q 660 640 660 605 Q 660 570 693.26 570" fill="none"
+              stroke="#000000" stroke-width="2" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 697.76 570 L 691.76 573 L 693.26 570 L 691.76 567 Z"
+              fill="#000000" stroke="#000000" stroke-width="2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 416.68 509.11 L 560 490" fill="none" stroke="#000000"
+              stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 412.22 509.7 L 417.77 505.94 L 416.68 509.11 L 418.56 511.89 Z"
+              fill="#000000" stroke="#000000" stroke-width="2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" text-anchor="end"
+           font-size="13px">
+            <rect fill="#FFFFFF" stroke="none" x="449" y="469" width="41"
+                  height="31" stroke-width="0"/>
+            <text x="488" y="479">
+                Retour
+            </text>
+            <text x="488" y="495">
+                visuel
+            </text>
+        </g>
+        <path d="M 410 550 L 554.22 636.53" fill="none" stroke="#000000"
+              stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 558.08 638.85 L 551.39 638.34 L 554.22 636.53 L 554.48 633.19 Z"
+              fill="#000000" stroke="#000000" stroke-width="2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" text-anchor="end"
+           font-size="13px">
+            <rect fill="#FFFFFF" stroke="none" x="423" y="613" width="87"
+                  height="31" stroke-width="0"/>
+            <text x="508" y="624">
+                Commande de
+            </text>
+            <text x="508" y="640">
+                déplacement
+            </text>
+        </g>
+        <path d="M 1210 565 L 1313.26 565" fill="none" stroke="#000000"
+              stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1317.76 565 L 1311.76 568 L 1313.26 565 L 1311.76 562 Z"
+              fill="#000000" stroke="#000000" stroke-width="2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1310" y="680" width="130" height="50" rx="3.36" ry="3.36"
+              fill="none" stroke="#000000" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="14px">
+            <text x="1375" y="701.5">
+                Véhicule
+            </text>
+            <text x="1375" y="718.5">
+                robotique
+            </text>
+        </g>
+        <path d="M 1375 620 L 1375 673.26" fill="none" stroke="#000000"
+              stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1375 677.76 L 1372 671.76 L 1375 673.26 L 1378 671.76 Z"
+              fill="#000000" stroke="#000000" stroke-width="2"
+              stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+</svg>

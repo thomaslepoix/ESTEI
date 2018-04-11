@@ -1,0 +1,106 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="857"
+     height="271">
+    <defs/>
+    <g transform=" scale(0.87) translate(-133.7,-427.7)">
+        <rect x="138" y="432" width="120" height="258" rx="8.06" ry="8.06"
+              fill="none" stroke="#000000" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="18px">
+            <text x="197.5" y="708.6">
+                Screenless
+            </text>
+            <text x="197.5" y="730.2">
+                Remote
+            </text>
+        </g>
+        <path d="M 222 492 L 229.06 492" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 232.66 492 L 229.06 493.8 L 229.06 490.2 Z" fill="#000000"
+              stroke="#000000" stroke-width="1.2" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <rect x="216" y="552" width="24" height="24" fill="none"
+              stroke="#000000" pointer-events="none"/>
+        <rect x="156" y="552" width="24" height="24" fill="none"
+              stroke="#000000" pointer-events="none"/>
+        <path d="M 174 492 L 166.94 492" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 163.34 492 L 166.94 490.2 L 166.94 493.8 Z" fill="#000000"
+              stroke="#000000" stroke-width="1.2" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <rect x="156" y="480" width="24" height="24" fill="none"
+              stroke="#000000" pointer-events="none"/>
+        <rect x="216" y="480" width="24" height="24" fill="none"
+              stroke="#000000" pointer-events="none"/>
+        <path d="M 198 468 L 198 460.94" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 198 457.34 L 199.8 460.94 L 196.2 460.94 Z" fill="#000000"
+              stroke="#000000" stroke-width="1.2" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 198 516 L 198 523.06" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 198 526.66 L 196.2 523.06 L 199.8 523.06 Z" fill="#000000"
+              stroke="#000000" stroke-width="1.2" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <rect x="186" y="510" width="24" height="24" fill="none"
+              stroke="#000000" pointer-events="none"/>
+        <rect x="186" y="450" width="24" height="24" fill="none"
+              stroke="#000000" pointer-events="none"/>
+        <path d="M 234 564 Q 234 570 228 570 Q 222 570 222 564 Q 222 558 229.06 558"
+              fill="none" stroke="#000000" stroke-width="1.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 232.66 558 L 229.06 559.8 L 229.06 556.2 Z" fill="#000000"
+              stroke="#000000" stroke-width="1.2" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 162 564 Q 162 570 168 570 Q 174 570 174 564 Q 174 558 166.94 558"
+              fill="none" stroke="#000000" stroke-width="1.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 163.34 558 L 166.94 556.2 L 166.94 559.8 Z" fill="#000000"
+              stroke="#000000" stroke-width="1.2" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <rect x="438" y="582" width="222" height="72" rx="4.84" ry="4.84"
+              fill="none" stroke="#000000" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="16.8px">
+            <text x="548.5" y="614.5">
+                Router
+            </text>
+            <text x="548.5" y="634.9">
+                MASTER_SE
+            </text>
+        </g>
+        <path d="M 464.25 540 L 480 582" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 618 582 L 633.75 540" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <ellipse cx="462" cy="534" rx="6" ry="6" fill="none" stroke="#000000"
+                 pointer-events="none"/>
+        <ellipse cx="636" cy="534" rx="6" ry="6" fill="none" stroke="#000000"
+                 pointer-events="none"/>
+        <rect x="840" y="450" width="186" height="186" rx="12.49" ry="12.49"
+              fill="none" stroke="#000000" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="16.8px">
+            <text x="932.5" y="549.7">
+                Robot Car
+            </text>
+        </g>
+        <ellipse cx="885" cy="657" rx="15" ry="15" fill="none" stroke="#000000"
+                 pointer-events="none"/>
+        <ellipse cx="981" cy="657" rx="15" ry="15" fill="none" stroke="#000000"
+                 pointer-events="none"/>
+        <path d="M 702 522 Q 720 522 720 540" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 702 504 Q 738 504 738 540" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 702 486 Q 756 486 756 540" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 342 504 Q 360 504 360 486" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 342 522 Q 378 522 378 486" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 342 540 Q 396 540 396 486" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+</svg>

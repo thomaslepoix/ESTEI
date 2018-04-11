@@ -1,0 +1,606 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="821"
+     height="569">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%"
+                        id="mx-gradient-bf00bf-1-bf00bf-1-s-0">
+            <stop offset="0%" style="stop-color:#bf00bf"/>
+            <stop offset="100%" style="stop-color:#bf00bf"/>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%"
+                        id="mx-gradient-aaff56-1-aaff56-1-s-0">
+            <stop offset="0%" style="stop-color:#aaff56"/>
+            <stop offset="100%" style="stop-color:#aaff56"/>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%"
+                        id="mx-gradient-000000-1-000000-1-s-0">
+            <stop offset="0%" style="stop-color:#000000"/>
+            <stop offset="100%" style="stop-color:#000000"/>
+        </linearGradient>
+    </defs>
+    <g transform=" scale(0.93) translate(-223.7,-187.7)">
+        <path d="M 336 300 L 372 300 L 384 312 L 384 360 L 336 360 L 336 300 Z"
+              fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 372 300 L 372 312 L 384 312" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(342,325)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="60" height="14">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        image.bb
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 228 205.8 L 228 192 L 492 192 L 492 205.8 Z" fill="none"
+              stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 228 205.8 L 228 462 L 492 462 L 492 205.8" fill="none"
+              stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="8.4px">
+            <text x="359.5" y="201.9">
+                poky
+            </text>
+        </g>
+        <path d="M 426 384 L 462 384 L 474 396 L 474 444 L 426 444 L 426 384 Z"
+              fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 462 384 L 462 396 L 474 396" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(433,409)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="56" height="14">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        recipe.bb
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 426 222 L 462 222 L 474 234 L 474 282 L 426 282 L 426 222 Z"
+              fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 462 222 L 462 234 L 474 234" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(430,242)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="65" height="31">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        recipe
+                        <br/>
+                        .bbappend
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 246 384 L 282 384 L 294 396 L 294 444 L 246 444 L 246 384 Z"
+              fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 282 384 L 282 396 L 294 396" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(253,409)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="56" height="14">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        recipe.bb
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 246 222 L 282 222 L 294 234 L 294 282 L 246 282 L 246 222 Z"
+              fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 282 222 L 282 234 L 294 234" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(253,247)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="56" height="14">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        recipe.bb
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 522 205.8 L 522 192 L 786 192 L 786 205.8 Z" fill="none"
+              stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 522 205.8 L 522 462 L 786 462 L 786 205.8" fill="none"
+              stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="8.4px">
+            <text x="653.5" y="201.9">
+                meta-openembedded
+            </text>
+        </g>
+        <path d="M 720 384 L 756 384 L 768 396 L 768 444 L 720 444 L 720 384 Z"
+              fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 756 384 L 756 396 L 768 396" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(727,409)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="56" height="14">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        recipe.bb
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 720 222 L 756 222 L 768 234 L 768 282 L 720 282 L 720 222 Z"
+              fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 756 222 L 756 234 L 768 234" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(724,242)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="65" height="31">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        recipe
+                        <br/>
+                        .bbappend
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 540 384 L 576 384 L 588 396 L 588 444 L 540 444 L 540 384 Z"
+              fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 576 384 L 576 396 L 588 396" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(547,409)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="56" height="14">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        recipe.bb
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 540 222 L 576 222 L 588 234 L 588 282 L 540 282 L 540 222 Z"
+              fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 576 222 L 576 234 L 588 234" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(547,247)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="56" height="14">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        recipe.bb
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 924 300 L 960 300 L 972 312 L 972 360 L 924 360 L 924 300 Z"
+              fill="url(#mx-gradient-bf00bf-1-bf00bf-1-s-0)" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 960 300 L 960 312 L 972 312" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(930,325)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="60" height="14">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        image.bb
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 816 205.8 L 816 192 L 1080 192 L 1080 205.8 Z" fill="none"
+              stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 816 205.8 L 816 462 L 1080 462 L 1080 205.8" fill="none"
+              stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="8.4px">
+            <text x="947.5" y="201.9">
+                meta-raspberrypi
+            </text>
+        </g>
+        <path d="M 1014 384 L 1050 384 L 1062 396 L 1062 444 L 1014 444 L 1014 384 Z"
+              fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1050 384 L 1050 396 L 1062 396" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(1021,409)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="56" height="14">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        recipe.bb
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1014 222 L 1050 222 L 1062 234 L 1062 282 L 1014 282 L 1014 222 Z"
+              fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 1050 222 L 1050 234 L 1062 234" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(1018,242)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="65" height="31">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        recipe
+                        <br/>
+                        .bbappend
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 834 384 L 870 384 L 882 396 L 882 444 L 834 444 L 834 384 Z"
+              fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 870 384 L 870 396 L 882 396" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(841,409)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="56" height="14">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        recipe.bb
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 834 222 L 870 222 L 882 234 L 882 282 L 834 282 L 834 222 Z"
+              fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 870 222 L 870 234 L 882 234" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(841,247)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="56" height="14">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        recipe.bb
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 336 600 L 372 600 L 384 612 L 384 660 L 336 660 L 336 600 Z"
+              fill="url(#mx-gradient-aaff56-1-aaff56-1-s-0)" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 372 600 L 372 612 L 384 612" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(342,625)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="60" height="14">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        image.bb
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 228 505.8 L 228 492 L 492 492 L 492 505.8 Z"
+              fill="url(#mx-gradient-aaff56-1-aaff56-1-s-0)" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 228 505.8 L 228 762 L 492 762 L 492 505.8" fill="none"
+              stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="8.4px">
+            <text x="359.5" y="501.9">
+                meta-remote-estei
+            </text>
+        </g>
+        <path d="M 426 684 L 462 684 L 474 696 L 474 744 L 426 744 L 426 684 Z"
+              fill="url(#mx-gradient-aaff56-1-aaff56-1-s-0)" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 462 684 L 462 696 L 474 696" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(433,709)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="56" height="14">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        recipe.bb
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 426 522 L 462 522 L 474 534 L 474 582 L 426 582 L 426 522 Z"
+              fill="url(#mx-gradient-aaff56-1-aaff56-1-s-0)" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 462 522 L 462 534 L 474 534" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(430,542)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="65" height="31">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        recipe
+                        <br/>
+                        .bbappend
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 246 684 L 282 684 L 294 696 L 294 744 L 246 744 L 246 684 Z"
+              fill="url(#mx-gradient-aaff56-1-aaff56-1-s-0)" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 282 684 L 282 696 L 294 696" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(253,709)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="56" height="14">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        recipe.bb
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 246 522 L 282 522 L 294 534 L 294 582 L 246 582 L 246 522 Z"
+              fill="url(#mx-gradient-aaff56-1-aaff56-1-s-0)" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 282 522 L 282 534 L 294 534" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(253,547)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="56" height="14">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        recipe.bb
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 630 384 L 666 384 L 678 396 L 678 444 L 630 444 L 630 384 Z"
+              fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 666 384 L 666 396 L 678 396" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(634,404)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="65" height="31">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        recipe
+                        <br/>
+                        .bbappend
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 630 222 L 666 222 L 678 234 L 678 282 L 630 282 L 630 222 Z"
+              fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 666 222 L 666 234 L 678 234" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(637,247)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="56" height="14">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        recipe.bb
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 1014 600 L 1050 600 L 1062 612 L 1062 660 L 1014 660 L 1014 600 Z"
+              fill="url(#mx-gradient-aaff56-1-aaff56-1-s-0)" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1050 600 L 1050 612 L 1062 612" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(1018,625)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="64" height="14">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        local.conf
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 924 222 L 960 222 L 972 234 L 972 282 L 924 282 L 924 222 Z"
+              fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 960 222 L 960 234 L 972 234" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(930,247)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="60" height="14">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        image.bb
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 246 300 L 282 300 L 294 312 L 294 360 L 246 360 L 246 300 Z"
+              fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 282 300 L 282 312 L 294 312" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(252,325)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="60" height="14">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        image.bb
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <rect x="738" y="594" width="132" height="78" rx="5.24" ry="5.24"
+              fill="url(#mx-gradient-000000-1-000000-1-s-0)" stroke="#000000"
+              pointer-events="none"/>
+        <g fill="#ffffff" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="18px">
+            <text x="803.5" y="640.3">
+                Bitbake
+            </text>
+        </g>
+        <path d="M 294 252 Q 354 252 354 295.96" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 354 298.66 L 352.2 295.06 L 354 295.96 L 355.8 295.06 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 426 252 Q 366 252 366 295.96" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 366 298.66 L 364.2 295.06 L 366 295.96 L 367.8 295.06 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 384 330 L 919.96 330" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 922.66 330 L 919.06 331.8 L 919.96 330 L 919.06 328.2 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 564 282 Q 564 318 388.04 318" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 385.34 318 L 388.94 316.2 L 388.04 318 L 388.94 319.8 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 654 282 Q 654 324 388.04 324" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 385.34 324 L 388.94 322.2 L 388.04 324 L 388.94 325.8 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 450 384 Q 450 342 919.96 342" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 922.66 342 L 919.06 343.8 L 919.96 342 L 919.06 340.2 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 744 282 Q 744 318 919.96 318" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 922.66 318 L 919.06 319.8 L 919.96 318 L 919.06 316.2 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 858 282 Q 858 306 919.96 306" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 922.66 306 L 919.06 307.8 L 919.96 306 L 919.06 304.2 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1038 282 Q 1038 318 976.04 318" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 973.34 318 L 976.94 316.2 L 976.04 318 L 976.94 319.8 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 294 714 Q 360 714 360 664.04" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 360 661.34 L 361.8 664.94 L 360 664.04 L 358.2 664.94 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 426 558 Q 372 558 372 595.96" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 372 598.66 L 370.2 595.06 L 372 595.96 L 373.8 595.06 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 270 444 Q 270 516 309 516 Q 348 516 348 595.96" fill="none"
+              stroke="#000000" stroke-width="1.2" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 348 598.66 L 346.2 595.06 L 348 595.96 L 349.8 595.06 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 564 444 Q 564 510 462 510 Q 360 510 360 595.96" fill="none"
+              stroke="#000000" stroke-width="1.2" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 360 598.66 L 358.2 595.06 L 360 595.96 L 361.8 595.06 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 948 360 Q 948 612 874.04 612" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 871.34 612 L 874.94 610.2 L 874.04 612 L 874.94 613.8 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1014 630 L 874.04 630" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 871.34 630 L 874.94 628.2 L 874.04 630 L 874.94 631.8 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 780 732 L 816 732 L 828 744 L 828 792 L 780 792 L 780 732 Z"
+              fill="none" stroke="#000000" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 816 732 L 816 744 L 828 744" fill="none" stroke="#000000"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(783,757)scale(0.6)">
+            <foreignObject style="overflow:visible;" pointer-events="all"
+                           width="67" height="14">
+                <div xmlns="http://www.w3.org/1999/xhtml"
+                     style="display: inline-block; font-size: 14px; font-family: Arial, Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+                    <div xmlns="http://www.w3.org/1999/xhtml"
+                         style="display:inline-block;text-align:inherit;text-decoration:inherit;">
+                        image.img
+                    </div>
+                </div>
+            </foreignObject>
+        </g>
+        <path d="M 804 672 L 804 727.96" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 804 730.66 L 802.2 727.06 L 804 727.96 L 805.8 727.06 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 384 630 L 733.96 630" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 736.66 630 L 733.06 631.8 L 733.96 630 L 733.06 628.2 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 936 360 Q 936 624 388.04 624" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 385.34 624 L 388.94 622.2 L 388.04 624 L 388.94 625.8 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 846 444 Q 846 618 388.04 618" fill="none" stroke="#000000"
+              stroke-width="1.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 385.34 618 L 388.94 616.2 L 388.04 618 L 388.94 619.8 Z"
+              fill="#000000" stroke="#000000" stroke-width="1.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+</svg>

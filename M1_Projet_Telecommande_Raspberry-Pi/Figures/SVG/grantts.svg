@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="968.46722"
+   height="282.92001"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="grantts.svg">
+  <metadata
+     id="metadata135">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     id="namedview133"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.1672874"
+     inkscape:cx="485.41966"
+     inkscape:cy="96.192073"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1"
+       id="mx-gradient-ff7f00-1-ff7f00-1-s-0">
+      <stop
+         offset="0%"
+         style="stop-color:#ff7f00"
+         id="stop7" />
+      <stop
+         offset="100%"
+         style="stop-color:#ff7f00"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#mx-gradient-ff7f00-1-ff7f00-1-s-0"
+       id="linearGradient4263"
+       x1="641.99899"
+       y1="380.6869"
+       x2="641.99899"
+       y2="434.79855"
+       gradientTransform="scale(0.76213593,1.3121019)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#mx-gradient-ff7f00-1-ff7f00-1-s-0"
+       id="linearGradient4265"
+       x1="1009.3875"
+       y1="380.6869"
+       x2="1009.3875"
+       y2="434.79855"
+       gradientTransform="scale(0.76213593,1.3121019)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#mx-gradient-ff7f00-1-ff7f00-1-s-0"
+       id="linearGradient4267"
+       x1="1324.292"
+       y1="380.6869"
+       x2="1324.292"
+       y2="434.79855"
+       gradientTransform="scale(0.76213593,1.3121019)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#mx-gradient-ff7f00-1-ff7f00-1-s-0"
+       id="linearGradient4269"
+       x1="1232.4448"
+       y1="449.27913"
+       x2="1232.4448"
+       y2="503.39078"
+       gradientTransform="scale(0.76213593,1.3121019)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#mx-gradient-ff7f00-1-ff7f00-1-s-0"
+       id="linearGradient4271"
+       x1="1494.8652"
+       y1="449.27913"
+       x2="1494.8652"
+       y2="503.39078"
+       gradientTransform="scale(0.76213593,1.3121019)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#mx-gradient-ff7f00-1-ff7f00-1-s-0"
+       id="linearGradient4273"
+       x1="1048.7506"
+       y1="312.09466"
+       x2="1048.7506"
+       y2="366.20631"
+       gradientTransform="scale(0.76213593,1.3121019)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     transform="matrix(0.88,0,0,0.88,-70.4,-360.36)"
+     id="g11">
+    <rect
+       x="110"
+       y="500"
+       width="400"
+       height="70"
+       pointer-events="none"
+       id="rect13"
+       style="fill:none;stroke:#000000" />
+    <g
+       font-size="16px"
+       id="g15"
+       style="font-size:16px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000">
+      <text
+         x="310"
+         y="531.5"
+         id="text17">Yocto</text>
+      <text
+         x="310"
+         y="550.5"
+         id="text19">Prise en main</text>
+    </g>
+    <rect
+       x="510"
+       y="500"
+       width="280"
+       height="70"
+       pointer-events="none"
+       id="rect21"
+       style="fill:none;stroke:#000000" />
+    <g
+       font-size="16px"
+       id="g23"
+       style="font-size:16px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000">
+      <text
+         x="650"
+         y="531.5"
+         id="text25">Travail sur</text>
+      <text
+         x="650"
+         y="550.5"
+         id="text27">meta-remote-estei</text>
+    </g>
+    <rect
+       x="790"
+       y="500"
+       width="240"
+       height="70"
+       pointer-events="none"
+       id="rect29"
+       style="fill:none;stroke:#000000" />
+    <g
+       font-size="16px"
+       id="g31"
+       style="font-size:16px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000">
+      <text
+         x="910"
+         y="531.5"
+         id="text33">meta-remote-estei</text>
+      <text
+         x="910"
+         y="550.5"
+         id="text35">Améliorations</text>
+    </g>
+    <rect
+       x="820"
+       y="590"
+       width="140"
+       height="70"
+       pointer-events="none"
+       id="rect37"
+       style="fill:none;stroke:#000000" />
+    <g
+       font-size="16px"
+       id="g39"
+       style="font-size:16px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000">
+      <text
+         x="890"
+         y="612"
+         id="text41">Intégration</text>
+      <text
+         x="890"
+         y="631"
+         id="text43">OS</text>
+      <text
+         x="890"
+         y="650"
+         id="text45">Programme</text>
+    </g>
+    <rect
+       x="960"
+       y="590"
+       width="200"
+       height="70"
+       pointer-events="none"
+       id="rect47"
+       style="fill:none;stroke:#000000" />
+    <g
+       font-size="16px"
+       id="g49"
+       style="font-size:16px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000">
+      <text
+         x="1060"
+         y="612"
+         id="text51">Intégration</text>
+      <text
+         x="1060"
+         y="631"
+         id="text53">Télécommande</text>
+      <text
+         x="1060"
+         y="650"
+         id="text55">Serveur</text>
+    </g>
+    <path
+       d="m 502.5,535 -12.5,-35 27.5,0 12.5,35 -12.5,35 -27.5,0 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path57"
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient4263);stroke:#000000;stroke-miterlimit:10" />
+    <path
+       d="m 782.5,535 -12.5,-35 27.5,0 12.5,35 -12.5,35 -27.5,0 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path59"
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient4265);stroke:#000000;stroke-miterlimit:10" />
+    <path
+       d="m 1022.5,535 -12.5,-35 27.5,0 12.5,35 -12.5,35 -27.5,0 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path61"
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient4267);stroke:#000000;stroke-miterlimit:10" />
+    <path
+       d="m 952.5,625 -12.5,-35 27.5,0 12.5,35 -12.5,35 -27.5,0 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path63"
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient4269);stroke:#000000;stroke-miterlimit:10" />
+    <path
+       d="m 1152.5,625 -12.5,-35 27.5,0 12.5,35 -12.5,35 -27.5,0 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path65"
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient4271);stroke:#000000;stroke-miterlimit:10" />
+    <rect
+       x="170"
+       y="410"
+       width="140"
+       height="70"
+       pointer-events="none"
+       id="rect67"
+       style="fill:none;stroke:#000000" />
+    <g
+       font-size="16px"
+       id="g69"
+       style="font-size:16px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000">
+      <text
+         x="240"
+         y="441.5"
+         id="text71">Prototype</text>
+      <text
+         x="240"
+         y="460.5"
+         id="text73">Carte</text>
+    </g>
+    <rect
+       x="680"
+       y="410"
+       width="140"
+       height="70"
+       pointer-events="none"
+       id="rect75"
+       style="fill:none;stroke:#000000" />
+    <g
+       font-size="16px"
+       id="g77"
+       style="font-size:16px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000">
+      <text
+         x="750"
+         y="441.5"
+         id="text79">Commande</text>
+      <text
+         x="750"
+         y="460.5"
+         id="text81">composants</text>
+    </g>
+    <rect
+       x="820"
+       y="410"
+       width="110"
+       height="70"
+       pointer-events="none"
+       id="rect83"
+       style="fill:none;stroke:#000000" />
+    <g
+       font-size="16px"
+       id="g85"
+       style="font-size:16px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000">
+      <text
+         x="875"
+         y="441.5"
+         id="text87">Seconde</text>
+      <text
+         x="875"
+         y="460.5"
+         id="text89">Carte</text>
+    </g>
+    <path
+       d="m 812.5,445 -12.5,-35 27.5,0 12.5,35 -12.5,35 -27.5,0 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path91"
+       inkscape:connector-curvature="0"
+       style="fill:url(#linearGradient4273);stroke:#000000;stroke-miterlimit:10" />
+    <path
+       d="m 1050,710 0,-31.76"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path93"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10" />
+    <path
+       d="m 1050,672.24 3,6 -6,0 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path95"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:#000000;stroke-width:2;stroke-miterlimit:10" />
+    <g
+       font-weight="bold"
+       font-size="15px"
+       id="g97"
+       style="font-weight:bold;font-size:15px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000">
+      <rect
+         x="1034"
+         y="713"
+         width="33"
+         height="18"
+         id="rect99"
+         style="fill:#ffffff;stroke:none;stroke-width:0" />
+      <text
+         x="1050"
+         y="726"
+         id="text101">Oral</text>
+    </g>
+    <path
+       d="m 790,710 0,-31.76"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path103"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10" />
+    <path
+       d="m 790,672.24 3,6 -6,0 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path105"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:#000000;stroke-width:2;stroke-miterlimit:10" />
+    <g
+       font-weight="bold"
+       font-size="15px"
+       id="g107"
+       style="font-weight:bold;font-size:15px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000">
+      <rect
+         x="762"
+         y="713"
+         width="57"
+         height="18"
+         id="rect109"
+         style="fill:#ffffff;stroke:none;stroke-width:0" />
+      <text
+         x="790"
+         y="726"
+         id="text111">Janvier</text>
+    </g>
+    <path
+       d="m 400,710 0,-31.76"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path113"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10" />
+    <path
+       d="m 400,672.24 3,6 -6,0 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path115"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:#000000;stroke-width:2;stroke-miterlimit:10" />
+    <g
+       font-weight="bold"
+       font-size="15px"
+       id="g117"
+       style="font-weight:bold;font-size:15px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000">
+      <rect
+         x="362"
+         y="713"
+         width="77"
+         height="18"
+         id="rect119"
+         style="fill:#ffffff;stroke:none;stroke-width:0" />
+      <text
+         x="400"
+         y="726"
+         id="text121">Novembre</text>
+    </g>
+    <path
+       d="m 110,710 0,-31.76"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path123"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10" />
+    <path
+       d="m 110,672.24 3,6 -6,0 z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path125"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:#000000;stroke-width:2;stroke-miterlimit:10" />
+    <g
+       font-weight="bold"
+       font-size="15px"
+       id="g127"
+       style="font-weight:bold;font-size:15px;font-family:Arial, Helvetica;text-anchor:middle;fill:#000000">
+      <rect
+         x="80"
+         y="713"
+         width="61"
+         height="18"
+         id="rect129"
+         style="fill:#ffffff;stroke:none;stroke-width:0" />
+      <text
+         x="110"
+         y="726"
+         id="text131">Octobre</text>
+    </g>
+  </g>
+</svg>
