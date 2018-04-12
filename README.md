@@ -31,7 +31,7 @@
 - [Rapport de TP](https://github.com/thomaslepoix/ESTEI/blob/master/M1_Hyperfrequences_Filtres/TP2.pdf)
 - [Diaporama de présentation](https://github.com/thomaslepoix/ESTEI/blob/master/M1_Hyperfrequences_Filtres/Oral.pdf)
 - [Fichiers de travail (Qucs)](https://github.com/thomaslepoix/ESTEI/tree/master/M1_Hyperfrequences_Filtres/TP2_qucs_prj)
-- [Scripts d'interfacege de Qucs et PcbNew (en cours de développement)](https://github.com/thomaslepoix/QucstoKicad)
+- [Scripts d'interfaçage de Qucs et PcbNew (en cours de développement)](https://github.com/thomaslepoix/QucstoKicad)
 
 ## B3 - Linux : TP Crosstool chain
 - Réalisation manuelle d'un compilateur croisé x86 ARM.
