@@ -16,7 +16,7 @@
 ## M1 - Hyperfréquences : TP3 Antennes patch
 - Simulation et production d'antennes patch avec [Qucs](http://qucs.sourceforge.net/), [OpenEMS](http://openems.de/start/index.php) et [GNU Octave](https://www.gnu.org/software/octave/).
 
-### Contenu (actuellement incomplet)
+### Contenu (upload à venir)
 - Rapport de TP
 - [Manuel d'utilisation d'OpenEMS](https://github.com/thomaslepoix/ESTEI/blob/master/M1_Hyperfrequences_Antennes/OpenEMS.pdf)
 - Diaporama de présentation
