@@ -9,7 +9,7 @@
 ### Contenu
 - [Rapport de projet](https://github.com/thomaslepoix/ESTEI/blob/master/M1_Projet_Telecommande_Raspberry-Pi/Hardware_Middleware.pdf)
 - [Rapport complet avec Thibaud LE DOLEDEC et Taha MENEBHI](https://github.com/thomaslepoix/ESTEI/blob/master/M1_Projet_Telecommande_Raspberry-Pi/Projet.pdf)
-- [Diaporama de présentation](https://github.com/thomaslepoix/ESTEI/blob/master/M1_Projet_Telecommande_Raspberry-Pi/Oral.odp)
+- [Diaporama de présentation](https://github.com/thomaslepoix/ESTEI/blob/master/M1_Projet_Telecommande_Raspberry-Pi/Oral.pdf)
 - [Layer Yocto de l'OS](https://github.com/thomaslepoix/meta-remote-estei)
 - [Fichiers de production de la carte d'IHM (KiCad)](https://github.com/thomaslepoix/ESTEI/tree/master/M1_Projet_Telecommande_Raspberry-Pi/PCB_kicad)
 
@@ -29,7 +29,7 @@
 
 ### Contenu
 - [Rapport de TP](https://github.com/thomaslepoix/ESTEI/blob/master/M1_Hyperfrequences_Filtres/TP2.pdf)
-- [Diaporama de présentation](https://github.com/thomaslepoix/ESTEI/blob/master/M1_Hyperfrequences_Filtres/TP2.odp)
+- [Diaporama de présentation](https://github.com/thomaslepoix/ESTEI/blob/master/M1_Hyperfrequences_Filtres/Oral.pdf)
 - [Fichiers de travail (Qucs)](https://github.com/thomaslepoix/ESTEI/tree/master/M1_Hyperfrequences_Filtres/TP2_qucs_prj)
 - [Scripts d'interfacege de Qucs et PcbNew (en cours de développement)](https://github.com/thomaslepoix/QucstoKicad)
 
