@@ -3,7 +3,7 @@
 
 ## M1 - Projet : Télécommande Wifi basée sur une Raspberry Pi
 - Création d'une carte d'IHM pluggable sur la Raspberry Pi.
-- Création de l'OS de la Raspberry Pi avec Yocto.
+- Création de l'OS de la Raspberry Pi avec [Yocto](https://www.yoctoproject.org/).
 - Travail en collaboration avec Thibaud LE DOLEDEC et [Taha MENEBHI](https://www.linkedin.com/in/taha-menebhi/).
 
 ### Contenu
