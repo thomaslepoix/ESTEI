@@ -20,8 +20,8 @@
 - Rapport de TP
 - [Manuel d'utilisation d'OpenEMS](https://github.com/thomaslepoix/ESTEI/blob/master/M1_Hyperfrequences_Antennes/OpenEMS.pdf)
 - Diaporama de présentation
-- fichiers de travail (Qucs)
-- fichiers de travail (GNU Octave / OpenEMS)
+- Fichiers de travail (Qucs)
+- Fichiers de travail (GNU Octave / OpenEMS)
 
 ## M1 - Hyperfréquences : TP2 Filtres microstrip
 - Simulation et production de filtres microstrip avec [Qucs](http://qucs.sourceforge.net/).
