@@ -3,7 +3,6 @@
 <br>
 
 ## M1 - Projet : Télécommande Wifi basée sur une Raspberry Pi
-### Description
 - Création d'une carte d'IHM pluggable sur la Raspberry Pi.
 - Création de l'OS de la Raspberry Pi avec [Yocto](https://www.yoctoproject.org/).
 - Travail en collaboration avec Thibaud LE DOLEDEC et [Taha MENEBHI](https://www.linkedin.com/in/taha-menebhi/).
@@ -18,7 +17,6 @@
 <br>
 
 ## M1 - Hyperfréquences : TP3 Antennes patch
-### Description
 - Simulation et production d'antennes patch avec [Qucs](http://qucs.sourceforge.net/), [OpenEMS](http://openems.de/start/index.php) et [GNU Octave](https://www.gnu.org/software/octave/).
 ### Contenu (upload à venir)
 - Rapport de TP
@@ -31,7 +29,6 @@
 <br>
 
 ## M1 - Hyperfréquences : TP2 Filtres microstrip
-### Description
 - Simulation et production de filtres microstrip avec [Qucs](http://qucs.sourceforge.net/).
 - Prototypage d'une solution pour produire des typons à partir des schémas microstrips de Qucs (via [PcbNew](http://kicad-pcb.org/discover/pcbnew/)).
 ### Contenu
@@ -44,7 +41,6 @@
 <br>
 
 ## B3 - Linux : TP Crosstool chain
-### Description
 - Réalisation manuelle d'un compilateur croisé x86 ARM.
 - Automatisation du processus dans un script à l'interface ergonomigue.
 ### Contenu
