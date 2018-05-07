@@ -23,9 +23,8 @@
 ### Contenu (upload à venir)
 - Rapport de TP
 - [Manuel d'utilisation d'OpenEMS](https://github.com/thomaslepoix/ESTEI/blob/master/M1_Hyperfrequences_Antennes/OpenEMS.pdf)
-- Diaporama de présentation
-- Fichiers de travail (Qucs)
-- Fichiers de travail (GNU Octave / OpenEMS)
+- [Fichiers de travail (Qucs)](https://github.com/thomaslepoix/ESTEI/blob/master/M1_Hyperfrequences_Antennes/TP3_qucs_prj)
+- [Fichiers de travail (GNU Octave / OpenEMS)](https://github.com/thomaslepoix/ESTEI/blob/master/M1_Hyperfrequences_Antennes/TP3_octave)
 
 <br>
 <br>
