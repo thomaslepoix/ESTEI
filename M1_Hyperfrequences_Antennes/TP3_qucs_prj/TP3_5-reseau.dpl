@@ -1,0 +1,39 @@
+<Qucs Schematic 0.0.19>
+<Properties>
+  <View=0,0,1430,907,1,0,0>
+  <Grid=10,10,0>
+  <DataSet=TP3_5-reseau.dat>
+  <DataDisplay=TP3_5-reseau.sch>
+  <OpenDisplay=1>
+  <Script=TP3_5-reseau.m>
+  <RunScript=0>
+  <showFrame=0>
+  <FrameText0=Titre>
+  <FrameText1=Auteur :>
+  <FrameText2=Date :>
+  <FrameText3=Version :>
+</Properties>
+<Symbol>
+</Symbol>
+<Components>
+</Components>
+<Wires>
+</Wires>
+<Diagrams>
+  <Smith 990 630 400 400 3 #c0c0c0 3 00 1 0 1 1 1 0 4 1 1 0 1 1 315 0 225 " " "" "" "">
+	<"S11_Mesure" #55ff00 2 3 0 0 0>
+	  <Mkr 2.41103e+09 -180 -38 4 0 0>
+	<"S11_Simulation" #ff00ff 2 3 0 0 0>
+	  <Mkr 2.3609e+09 -210 -420 4 0 0>
+  </Smith>
+  <Rect 160 596 477 328 3 #c0c0c0 3 00 1 2e+09 1e+08 3e+09 1 -9.27248 2 0.698633 1 -1 0.5 1 315 0 225 "Fréquence (Hz)" "" "" "">
+	<"dB_S11_Mesure" #55ff00 2 3 0 0 0>
+	  <Mkr 2.41103e+09 264 -88 4 0 0>
+	  <Mkr 2.38847e+09 269 -281 4 0 0>
+	  <Mkr 2.43609e+09 266 -214 4 0 0>
+	<"dB_S11_Simulation" #ff00ff 2 3 0 0 0>
+	  <Mkr 2.3609e+09 261 -153 4 0 0>
+  </Rect>
+</Diagrams>
+<Paintings>
+</Paintings>
