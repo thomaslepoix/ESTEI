@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="125"
+   height="125"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="polarisation states (Right-circular polarization).svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         id="path5041"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0787042"
+     inkscape:cx="250"
+     inkscape:cy="200"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="938"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-927.36214)">
+    <g
+       id="g7335"
+       transform="translate(-23.743179,17.582077)">
+      <g
+         transform="translate(0,920)"
+         id="g6332">
+        <path
+           inkscape:connector-curvature="0"
+           id="path6334"
+           d="m 31.510407,55.636377 98.332923,0"
+           style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+           d="m 81.098664,105.20542 0,-98.3329259"
+           id="path6336"
+           inkscape:connector-curvature="0" />
+        <g
+           transform="matrix(1.3966811,0,0,1.3966811,-66.3981,-5.841624)"
+           id="g6338">
+          <text
+             style="font-size:15px"
+             y="9.9835863"
+             x="90.216339"
+             id="text6340">
+            <tspan
+               id="tspan6342"
+               y="9.9835863"
+               x="90.216339"
+               style="font-size:10px;font-style:italic;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times-Italic">E</tspan>
+          </text>
+          <text
+             style="font-size:15px"
+             y="12.483586"
+             x="96.325958"
+             id="text6344">
+            <tspan
+               id="tspan6346"
+               y="12.483586"
+               x="96.325958"
+               style="font-size:7.5px;font-style:italic;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times-Italic">y</tspan>
+          </text>
+        </g>
+        <g
+           transform="matrix(1.6288441,0,0,1.6288441,-82.747205,-1.9259275)"
+           id="g6348">
+          <text
+             style="font-size:15px"
+             y="46.069469"
+             x="128.26695"
+             id="text6350">
+            <tspan
+               id="tspan6352"
+               y="46.069469"
+               x="128.26695"
+               style="font-size:10px;font-style:italic;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times-Italic">E</tspan>
+          </text>
+          <text
+             style="font-size:15px"
+             y="48.569469"
+             x="134.37659"
+             id="text6354">
+            <tspan
+               id="tspan6356"
+               y="48.569469"
+               x="134.37659"
+               style="font-size:7.5px;font-style:italic;font-variant:normal;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times-Italic">x</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         transform="translate(0,920)"
+         id="g6358">
+        <path
+           transform="matrix(1.3137765,0,0,1.3137765,-53.177735,13.302325)"
+           d="m 130.58165,32.207043 c 0,15.764232 -12.77943,28.543667 -28.54366,28.543667 -15.764235,0 -28.54367,-12.779435 -28.54367,-28.543667 0,-15.764232 12.779435,-28.5436671 28.54367,-28.5436671 15.76423,0 28.54366,12.7794351 28.54366,28.5436671 z"
+           sodipodi:ry="28.543667"
+           sodipodi:rx="28.543667"
+           sodipodi:cy="32.207043"
+           sodipodi:cx="102.03799"
+           id="path6360"
+           style="fill:none;stroke:#000000;stroke-width:1.00017011;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-mid:none"
+           sodipodi:type="arc" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path6362"
+           style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+           d="M 48.018241,28.657469 63.073126,21.142826 56.47311,36.620523 c -0.766101,-4.187299 -4.190856,-7.39287 -8.454869,-7.963054 z" />
+        <path
+           d="M 113.86737,81.922901 98.812482,89.437544 105.4125,73.959847 c 0.7661,4.187299 4.19085,7.39287 8.45487,7.963054 z"
+           style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+           id="path6364"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>

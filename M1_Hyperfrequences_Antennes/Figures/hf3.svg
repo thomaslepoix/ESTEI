@@ -1,0 +1,77 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="464"
+     height="566">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%"
+                        id="mx-gradient-ff7f00-1-ff7f00-1-s-0">
+            <stop offset="0%" style="stop-color:#ff7f00"/>
+            <stop offset="100%" style="stop-color:#ff7f00"/>
+        </linearGradient>
+    </defs>
+    <g transform=" scale(0.92) translate(-477.0000305175781,-53)">
+        <rect x="518" y="98" width="448" height="336"
+              fill="url(#mx-gradient-ff7f00-1-ff7f00-1-s-0)" stroke="#000000"
+              stroke-width="1.4" pointer-events="none"/>
+        <rect x="714" y="434" width="56" height="210"
+              fill="url(#mx-gradient-ff7f00-1-ff7f00-1-s-0)" stroke="#000000"
+              stroke-width="1.4" pointer-events="none"/>
+        <g fill="#000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="22.4px">
+            <text x="742" y="534.1">
+                Zc
+            </text>
+            <text x="742" y="560.7">
+                50Ω
+            </text>
+        </g>
+        <path d="M 504 107.43 L 504 424.57" fill="none" stroke="#000000"
+              stroke-width="2.8" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 504 101.13 L 508.2 109.53 L 504 107.43 L 499.8 109.53 Z"
+              fill="#000000" stroke="#000000" stroke-width="2.8"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 504 430.87 L 499.8 422.47 L 504 424.57 L 508.2 422.47 Z"
+              fill="#000000" stroke="#000000" stroke-width="2.8"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="end" font-size="21px">
+            <rect fill="#FFFFFF" stroke="none" x="481" y="255" width="22"
+                  height="26" stroke-width="0"/>
+            <text x="501.2" y="273.7">
+                L 
+            </text>
+        </g>
+        <path d="M 527.43 84 L 956.57 84" fill="none" stroke="#000000"
+              stroke-width="2.8" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 521.13 84 L 529.53 79.8 L 527.43 84 L 529.53 88.2 Z"
+              fill="#000000" stroke="#000000" stroke-width="2.8"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 962.87 84 L 954.47 88.2 L 956.57 84 L 954.47 79.8 Z"
+              fill="#000000" stroke="#000000" stroke-width="2.8"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="21px">
+            <rect fill="#FFFFFF" stroke="none" x="731" y="59" width="23"
+                  height="26" stroke-width="0"/>
+            <text x="742" y="77">
+                W
+            </text>
+        </g>
+        <path d="M 784 443.43 L 784 634.57" fill="none" stroke="#000000"
+              stroke-width="2.8" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 784 437.13 L 788.2 445.53 L 784 443.43 L 779.8 445.53 Z"
+              fill="#000000" stroke="#000000" stroke-width="2.8"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 784 640.87 L 779.8 632.47 L 784 634.57 L 788.2 632.47 Z"
+              fill="#000000" stroke="#000000" stroke-width="2.8"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           font-size="21px">
+            <rect fill="#FFFFFF" stroke="none" x="787" y="528" width="37"
+                  height="26" stroke-width="0"/>
+            <text x="786.8" y="546.7">
+                 λ/4
+            </text>
+        </g>
+    </g>
+</svg>

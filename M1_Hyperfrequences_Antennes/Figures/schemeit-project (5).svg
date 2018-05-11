@@ -1,0 +1,644 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="304"
+     height="262">
+    <defs/>
+    <g transform=" scale(0.87) translate(-488,-212)">
+        <rect x="744" y="336" width="2.4" height="2.4" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <rect x="624" y="336" width="2.4" height="2.4" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <rect x="576" y="336" width="2.4" height="2.4" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <rect x="518.3" y="222.54" width="289.36" height="131.96" fill="#ffffff"
+              stroke="#000000" stroke-width="2.44" pointer-events="none"/>
+        <path d="M 758.81 329.52 L 769.68 329.52 L 770.22 329.52 L 770.77 328.5 L 770.77 327.48 L 770.22 326.96 L 769.68 326.45 L 758.81 326.45 L 758.26 326.96 L 757.72 327.48 L 757.72 328.5 L 758.26 329.52 L 758.81 329.52 Z"
+              fill="#ffffff" stroke="none" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica"
+           font-size="3.5999999999999996px">
+            <text x="733.36" y="320.73">
+                Port 2
+            </text>
+        </g>
+        <path d="M 597.21 325.03 L 607.54 325.03 L 608.62 325.03 L 608.62 324 L 608.62 322.98 L 608.62 322.46 L 607.54 321.95 L 597.21 321.95 L 596.12 322.46 L 596.12 322.98 L 596.12 324 L 596.12 325.03 L 597.21 325.03 Z"
+              fill="#ffffff" stroke="none" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica"
+           font-size="3.5999999999999996px">
+            <text x="614.1" y="320.73">
+                Port 1
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="7.8px">
+            <text x="567.32" y="320.73">
+                GND
+            </text>
+        </g>
+        <path d="M 672.66 263.31 L 677.64 263.31 L 679.07 262.76 L 679.07 262.21 L 679.07 258.9 L 679.07 258.35 L 677.64 257.79 L 672.66 257.79 L 671.24 258.35 L 671.24 258.9 L 671.24 262.21 L 671.24 262.76 L 672.66 263.31"
+              fill="none" stroke="#000000" stroke-width="1.28"
+              stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 672.66 253.87 L 677.64 253.87 L 679.07 253.31 L 679.07 252.76 L 679.07 249.46 L 679.07 248.9 L 677.64 248.35 L 672.66 248.35 L 671.24 248.9 L 671.24 249.46 L 671.24 252.76 L 671.24 253.31 L 672.66 253.87"
+              fill="none" stroke="#000000" stroke-width="1.28"
+              stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 672.66 244.18 L 677.64 244.18 L 679.07 243.63 L 679.07 243.08 L 679.07 239.77 L 679.07 239.22 L 677.64 238.67 L 672.66 238.67 L 671.24 239.22 L 671.24 239.77 L 671.24 243.08 L 671.24 243.63 L 672.66 244.18"
+              fill="none" stroke="#000000" stroke-width="1.28"
+              stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 672.66 302.05 L 677.64 302.05 L 679.07 301.5 L 679.07 300.95 L 679.07 297.64 L 679.07 297.09 L 677.64 296.54 L 672.66 296.54 L 671.24 297.09 L 671.24 297.64 L 671.24 300.95 L 671.24 301.5 L 672.66 302.05"
+              fill="none" stroke="#000000" stroke-width="1.28"
+              stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 672.66 292.61 L 677.64 292.61 L 679.07 292.06 L 679.07 291.51 L 679.07 288.2 L 679.07 287.65 L 677.64 287.1 L 672.66 287.1 L 671.24 287.65 L 671.24 288.2 L 671.24 291.51 L 671.24 292.06 L 672.66 292.61"
+              fill="none" stroke="#000000" stroke-width="1.28"
+              stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 672.66 282.92 L 677.64 282.92 L 679.07 282.37 L 679.07 281.82 L 679.07 278.51 L 679.07 277.96 L 677.64 277.41 L 672.66 277.41 L 671.24 277.96 L 671.24 278.51 L 671.24 281.82 L 671.24 282.37 L 672.66 282.92"
+              fill="none" stroke="#000000" stroke-width="1.28"
+              stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 672.66 234.49 L 677.64 234.49 L 679.07 233.94 L 679.07 233.39 L 679.07 230.08 L 679.07 229.53 L 677.64 228.98 L 672.66 228.98 L 671.24 229.53 L 671.24 230.08 L 671.24 233.39 L 671.24 233.94 L 672.66 234.49"
+              fill="none" stroke="#000000" stroke-width="1.28"
+              stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 672.66 273.24 L 677.64 273.24 L 679.07 272.69 L 679.07 272.14 L 679.07 268.83 L 679.07 268.28 L 677.64 267.73 L 672.66 267.73 L 671.24 268.28 L 671.24 268.83 L 671.24 272.14 L 671.24 272.69 L 672.66 273.24"
+              fill="none" stroke="#000000" stroke-width="1.28"
+              stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="728.6" y="224.6" width="74.58" height="52.78" fill="none"
+              stroke="#000000" pointer-events="none"/>
+        <rect x="728.62" y="280.31" width="35.79" height="35.79" fill="none"
+              stroke="#000000" stroke-width="1.06" pointer-events="none"/>
+        <rect x="687.43" y="251.24" width="38.24" height="64.88" fill="none"
+              stroke="#000000" pointer-events="none"/>
+        <rect x="687.44" y="224.6" width="38.25" height="23.72" fill="none"
+              stroke="#000000" pointer-events="none"/>
+        <rect x="563.69" y="235.25" width="96.86" height="60.54" fill="none"
+              stroke="#000000" pointer-events="none"/>
+        <rect x="551.82" y="224.59" width="132.71" height="81.86" fill="none"
+              stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="19.32px">
+            <text x="570.05" y="254.57">
+                Network
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="19.32px">
+            <text x="570.05" y="278.79">
+                Analyzer
+            </text>
+        </g>
+        <path d="M 534.94 239.09 L 534.94 253.56 L 532.54 253.56 L 532.54 275.28 L 534.94 275.28 L 534.94 289.76 L 539.72 289.76 L 539.72 239.09 L 534.94 239.09 Z"
+              fill="none" stroke="#000000" stroke-width="1.01"
+              stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="530.15" y="235.46" width="11.96" height="57.92" fill="none"
+              stroke="#000000" stroke-width="1.01" pointer-events="none"/>
+        <rect x="527.76" y="224.6" width="14.9" height="77" fill="none"
+              stroke="#000000" stroke-width="1.01" pointer-events="none"/>
+        <path d="M 697.86 245.83 L 702.77 245.83 L 704.17 245.2 L 704.17 244.58 L 704.17 240.83 L 704.17 240.21 L 702.77 239.58 L 697.86 239.58 L 696.46 240.21 L 696.46 240.83 L 696.46 244.58 L 696.46 245.2 L 697.86 245.83"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 710.36 245.83 L 715.27 245.83 L 716.67 245.2 L 716.67 244.58 L 716.67 240.83 L 716.67 240.21 L 715.27 239.58 L 710.36 239.58 L 708.95 240.21 L 708.95 240.83 L 708.95 244.58 L 708.95 245.2 L 710.36 245.83"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 697.86 233.33 L 702.77 233.33 L 704.17 232.71 L 704.17 232.09 L 704.17 228.34 L 704.17 227.71 L 702.77 227.09 L 697.86 227.09 L 696.46 227.71 L 696.46 228.34 L 696.46 232.09 L 696.46 232.71 L 697.86 233.33"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 710.36 233.33 L 715.27 233.33 L 716.67 232.71 L 716.67 232.09 L 716.67 228.34 L 716.67 227.71 L 715.27 227.09 L 710.36 227.09 L 708.95 227.71 L 708.95 228.34 L 708.95 232.09 L 708.95 232.71 L 710.36 233.33"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 691.6 260.16 L 696.51 260.16 L 697.91 259.54 L 697.91 258.92 L 697.91 255.17 L 697.91 254.54 L 696.51 253.92 L 691.6 253.92 L 690.2 254.54 L 690.2 255.17 L 690.2 258.92 L 690.2 259.54 L 691.6 260.16"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 704.09 260.16 L 709 260.16 L 710.41 259.54 L 710.41 258.92 L 710.41 255.17 L 710.41 254.54 L 709 253.92 L 704.09 253.92 L 702.69 254.54 L 702.69 255.17 L 702.69 258.92 L 702.69 259.54 L 704.09 260.16"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 716.59 260.16 L 721.5 260.16 L 722.9 259.54 L 722.9 258.92 L 722.9 255.17 L 722.9 254.54 L 721.5 253.92 L 716.59 253.92 L 715.19 254.54 L 715.19 255.17 L 715.19 258.92 L 715.19 259.54 L 716.59 260.16"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 691.6 269.85 L 696.51 269.85 L 697.91 269.23 L 697.91 268.6 L 697.91 264.85 L 697.91 264.23 L 696.51 263.6 L 691.6 263.6 L 690.2 264.23 L 690.2 264.85 L 690.2 268.6 L 690.2 269.23 L 691.6 269.85"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 704.09 269.85 L 709 269.85 L 710.41 269.23 L 710.41 268.6 L 710.41 264.85 L 710.41 264.23 L 709 263.6 L 704.09 263.6 L 702.69 264.23 L 702.69 264.85 L 702.69 268.6 L 702.69 269.23 L 704.09 269.85"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 716.59 269.85 L 721.5 269.85 L 722.9 269.23 L 722.9 268.6 L 722.9 264.85 L 722.9 264.23 L 721.5 263.6 L 716.59 263.6 L 715.19 264.23 L 715.19 264.85 L 715.19 268.6 L 715.19 269.23 L 716.59 269.85"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 691.6 279.54 L 696.51 279.54 L 697.91 278.91 L 697.91 278.29 L 697.91 274.54 L 697.91 273.92 L 696.51 273.29 L 691.6 273.29 L 690.2 273.92 L 690.2 274.54 L 690.2 278.29 L 690.2 278.91 L 691.6 279.54"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 704.09 279.54 L 709 279.54 L 710.41 278.91 L 710.41 278.29 L 710.41 274.54 L 710.41 273.92 L 709 273.29 L 704.09 273.29 L 702.69 273.92 L 702.69 274.54 L 702.69 278.29 L 702.69 278.91 L 704.09 279.54"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 716.59 279.54 L 721.5 279.54 L 722.9 278.91 L 722.9 278.29 L 722.9 274.54 L 722.9 273.92 L 721.5 273.29 L 716.59 273.29 L 715.19 273.92 L 715.19 274.54 L 715.19 278.29 L 715.19 278.91 L 716.59 279.54"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 691.6 294.07 L 696.51 294.07 L 697.91 293.44 L 697.91 292.82 L 697.91 289.07 L 697.91 288.44 L 696.51 287.82 L 691.6 287.82 L 690.2 288.44 L 690.2 289.07 L 690.2 292.82 L 690.2 293.44 L 691.6 294.07"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 704.09 294.07 L 709 294.07 L 710.41 293.44 L 710.41 292.82 L 710.41 289.07 L 710.41 288.44 L 709 287.82 L 704.09 287.82 L 702.69 288.44 L 702.69 289.07 L 702.69 292.82 L 702.69 293.44 L 704.09 294.07"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 716.59 294.07 L 721.5 294.07 L 722.9 293.44 L 722.9 292.82 L 722.9 289.07 L 722.9 288.44 L 721.5 287.82 L 716.59 287.82 L 715.19 288.44 L 715.19 289.07 L 715.19 292.82 L 715.19 293.44 L 716.59 294.07"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 691.6 303.75 L 696.51 303.75 L 697.91 303.13 L 697.91 302.5 L 697.91 298.76 L 697.91 298.13 L 696.51 297.51 L 691.6 297.51 L 690.2 298.13 L 690.2 298.76 L 690.2 302.5 L 690.2 303.13 L 691.6 303.75"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 704.09 303.75 L 709 303.75 L 710.41 303.13 L 710.41 302.5 L 710.41 298.76 L 710.41 298.13 L 709 297.51 L 704.09 297.51 L 702.69 298.13 L 702.69 298.76 L 702.69 302.5 L 702.69 303.13 L 704.09 303.75"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 716.59 303.75 L 721.5 303.75 L 722.9 303.13 L 722.9 302.5 L 722.9 298.76 L 722.9 298.13 L 721.5 297.51 L 716.59 297.51 L 715.19 298.13 L 715.19 298.76 L 715.19 302.5 L 715.19 303.13 L 716.59 303.75"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 691.6 313.44 L 696.51 313.44 L 697.91 312.81 L 697.91 312.19 L 697.91 308.44 L 697.91 307.82 L 696.51 307.19 L 691.6 307.19 L 690.2 307.82 L 690.2 308.44 L 690.2 312.19 L 690.2 312.81 L 691.6 313.44"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 530.24 316.01 L 539.03 316.01 L 541.54 315.24 L 541.54 314.47 L 541.54 309.85 L 541.54 309.08 L 539.03 308.31 L 530.24 308.31 L 527.73 309.08 L 527.73 309.85 L 527.73 314.47 L 527.73 315.24 L 530.24 316.01"
+              fill="none" stroke="#000000" stroke-width="1.43"
+              stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="767.37" y="280.31" width="35.79" height="35.79" fill="none"
+              stroke="#000000" stroke-width="1.06" pointer-events="none"/>
+        <ellipse cx="785" cy="289" rx="3.9166274879999996"
+                 ry="3.9166274879999996" fill="none" stroke="#000000"
+                 pointer-events="none"/>
+        <ellipse cx="785" cy="308" rx="3.9166274879999996"
+                 ry="3.9166274879999996" fill="none" stroke="#000000"
+                 pointer-events="none"/>
+        <rect x="783.33" y="288.67" width="3.96" height="19.78" fill="#ffffff"
+              stroke="#000000" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="698.22" y="227.37">
+                Ch 1
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="710.58" y="227.37">
+                Ch 2
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="698.07" y="239.86">
+                Ch 3
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="710.57" y="239.86">
+                Ch 4
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="691.64" y="252.86">
+                Mea-
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="691.64" y="255.51">
+                sure
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="703.11" y="254.19">
+                Format
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="716.05" y="252.88">
+                Scale/
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="716.05" y="255.52">
+                Ref
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="690.51" y="263.66">
+                Display
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="704.62" y="263.66">
+                Avg
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="717.47" y="263.89">
+                Cal
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="690.66" y="273.56">
+                Marker
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="703.19" y="272.23">
+                Marker
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="703.19" y="274.88">
+                Search
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="715.65" y="272.24">
+                Marker
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="715.65" y="274.88">
+                Func
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="691.78" y="288.1">
+                Start
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="704.36" y="287.9">
+                Stop
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="715.94" y="288.09">
+                Power
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="690.81" y="297.79">
+                Center
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="704.1" y="297.59">
+                Span
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="715.8" y="297.59">
+                Sweep
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="690.86" y="307.46">
+                Return
+            </text>
+        </g>
+        <path d="M 753.71 296.24 L 758.7 296.24 L 760.12 295.69 L 760.12 295.14 L 760.12 291.83 L 760.12 291.28 L 758.7 290.73 L 753.71 290.73 L 752.29 291.28 L 752.29 291.83 L 752.29 295.14 L 752.29 295.69 L 753.71 296.24"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 744.03 296.24 L 749.01 296.24 L 750.43 295.69 L 750.43 295.14 L 750.43 291.83 L 750.43 291.28 L 749.01 290.73 L 744.03 290.73 L 742.6 291.28 L 742.6 291.83 L 742.6 295.14 L 742.6 295.69 L 744.03 296.24"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 734.34 296.24 L 739.32 296.24 L 740.75 295.69 L 740.75 295.14 L 740.75 291.83 L 740.75 291.28 L 739.32 290.73 L 734.34 290.73 L 732.92 291.28 L 732.92 291.83 L 732.92 295.14 L 732.92 295.69 L 734.34 296.24"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 734.34 305.68 L 739.32 305.68 L 740.75 305.13 L 740.75 304.58 L 740.75 301.27 L 740.75 300.72 L 739.32 300.17 L 734.34 300.17 L 732.92 300.72 L 732.92 301.27 L 732.92 304.58 L 732.92 305.13 L 734.34 305.68"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 744.03 305.68 L 749.01 305.68 L 750.43 305.13 L 750.43 304.58 L 750.43 301.27 L 750.43 300.72 L 749.01 300.17 L 744.03 300.17 L 742.6 300.72 L 742.6 301.27 L 742.6 304.58 L 742.6 305.13 L 744.03 305.68"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 753.71 305.68 L 758.7 305.68 L 760.12 305.13 L 760.12 304.58 L 760.12 301.27 L 760.12 300.72 L 758.7 300.17 L 753.71 300.17 L 752.29 300.72 L 752.29 301.27 L 752.29 304.58 L 752.29 305.13 L 753.71 305.68"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="733.32" y="290.43">
+                System
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="743.98" y="290.63">
+                Local
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="753.07" y="290.63">
+                Preset
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="734.16" y="300.07">
+                Video
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="743.6" y="298.76">
+                Save/
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="743.6" y="301.41">
+                Recall
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="754.35" y="299.89">
+                Seq
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="701.87" y="280.9">
+                Stimulus
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="738.69" y="281.52">
+                Instrument State
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="780.25" y="279.12">
+                R Channel
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="529.1" y="309.32">
+                Line On/Off
+            </text>
+        </g>
+        <rect x="529.79" y="352.69" width="24.22" height="12.11" fill="#ffffff"
+              stroke="#000000" stroke-width="2.4" pointer-events="none"/>
+        <rect x="771.94" y="352.69" width="24.22" height="12.11" fill="#ffffff"
+              stroke="#000000" stroke-width="2.4" pointer-events="none"/>
+        <path d="M 808.58 239.2 L 808.58 252.03 L 821.08 252.03 L 821.08 322.59 L 808.58 322.59 L 808.58 335.42 L 821.08 335.42 C 824.53 335.42 827.32 332.55 827.32 329.01 L 827.32 245.61 C 827.32 242.07 824.53 239.2 821.08 239.2 L 820.45 239.2 L 808.58 239.2 Z"
+              fill="#ffffff" stroke="#000000" stroke-width="1.26"
+              stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 517.37 239.2 L 517.37 252.03 L 504.87 252.03 L 504.87 322.59 L 517.37 322.59 L 517.37 335.42 L 504.87 335.42 C 501.42 335.42 498.63 332.55 498.63 329.01 L 498.63 245.61 C 498.63 242.07 501.42 239.2 504.87 239.2 L 505.5 239.2 L 517.37 239.2 Z"
+              fill="#ffffff" stroke="#000000" stroke-width="1.26"
+              stroke-linejoin="round" stroke-linecap="round"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 757.34 272.86 L 762.25 272.86 L 763.65 272.24 L 763.65 271.61 L 763.65 267.86 L 763.65 267.24 L 762.25 266.61 L 757.34 266.61 L 755.94 267.24 L 755.94 267.86 L 755.94 271.61 L 755.94 272.24 L 757.34 272.86"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 730.54 238.97 C 730.54 244.41 734.95 248.81 740.38 248.81 C 745.82 248.81 750.23 244.41 750.23 238.97 C 750.23 233.54 745.82 229.13 740.38 229.13 C 735.18 229.13 730.87 233.18 730.56 238.38"
+              fill="#ffffff" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 740.22 243.39 C 740.22 245.37 738.61 246.97 736.64 246.97 C 734.66 246.97 733.06 245.37 733.06 243.39 C 733.06 241.42 734.66 239.81 736.64 239.81 C 738.53 239.81 740.1 241.29 740.21 243.18"
+              fill="#ffffff" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 769.83 272.86 L 774.74 272.86 L 776.15 272.24 L 776.15 271.61 L 776.15 267.86 L 776.15 267.24 L 774.74 266.61 L 769.83 266.61 L 768.43 267.24 L 768.43 267.86 L 768.43 271.61 L 768.43 272.24 L 769.83 272.86"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 782.33 272.86 L 787.24 272.86 L 788.64 272.24 L 788.64 271.61 L 788.64 267.86 L 788.64 267.24 L 787.24 266.61 L 782.33 266.61 L 780.92 267.24 L 780.92 267.86 L 780.92 271.61 L 780.92 272.24 L 782.33 272.86"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 794.82 272.86 L 799.73 272.86 L 801.13 272.24 L 801.13 271.61 L 801.13 267.86 L 801.13 267.24 L 799.73 266.61 L 794.82 266.61 L 793.42 267.24 L 793.42 267.86 L 793.42 271.61 L 793.42 272.24 L 794.82 272.86"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 757.34 260.37 L 762.25 260.37 L 763.65 259.74 L 763.65 259.12 L 763.65 255.37 L 763.65 254.74 L 762.25 254.12 L 757.34 254.12 L 755.94 254.74 L 755.94 255.37 L 755.94 259.12 L 755.94 259.74 L 757.34 260.37"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 769.83 260.37 L 774.74 260.37 L 776.15 259.74 L 776.15 259.12 L 776.15 255.37 L 776.15 254.74 L 774.74 254.12 L 769.83 254.12 L 768.43 254.74 L 768.43 255.37 L 768.43 259.12 L 768.43 259.74 L 769.83 260.37"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 782.33 260.37 L 787.24 260.37 L 788.64 259.74 L 788.64 259.12 L 788.64 255.37 L 788.64 254.74 L 787.24 254.12 L 782.33 254.12 L 780.92 254.74 L 780.92 255.37 L 780.92 259.12 L 780.92 259.74 L 782.33 260.37"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 794.82 260.37 L 799.73 260.37 L 801.13 259.74 L 801.13 259.12 L 801.13 255.37 L 801.13 254.74 L 799.73 254.12 L 794.82 254.12 L 793.42 254.74 L 793.42 255.37 L 793.42 259.12 L 793.42 259.74 L 794.82 260.37"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 757.34 247.87 L 762.25 247.87 L 763.65 247.25 L 763.65 246.62 L 763.65 242.87 L 763.65 242.25 L 762.25 241.63 L 757.34 241.63 L 755.94 242.25 L 755.94 242.87 L 755.94 246.62 L 755.94 247.25 L 757.34 247.87"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 769.83 247.87 L 774.74 247.87 L 776.15 247.25 L 776.15 246.62 L 776.15 242.87 L 776.15 242.25 L 774.74 241.63 L 769.83 241.63 L 768.43 242.25 L 768.43 242.87 L 768.43 246.62 L 768.43 247.25 L 769.83 247.87"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 782.33 247.87 L 787.24 247.87 L 788.64 247.25 L 788.64 246.62 L 788.64 242.87 L 788.64 242.25 L 787.24 241.63 L 782.33 241.63 L 780.92 242.25 L 780.92 242.87 L 780.92 246.62 L 780.92 247.25 L 782.33 247.87"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 794.82 247.87 L 799.73 247.87 L 801.13 247.25 L 801.13 246.62 L 801.13 242.87 L 801.13 242.25 L 799.73 241.63 L 794.82 241.63 L 793.42 242.25 L 793.42 242.87 L 793.42 246.62 L 793.42 247.25 L 794.82 247.87"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 757.34 235.38 L 762.25 235.38 L 763.65 234.75 L 763.65 234.13 L 763.65 230.38 L 763.65 229.76 L 762.25 229.13 L 757.34 229.13 L 755.94 229.76 L 755.94 230.38 L 755.94 234.13 L 755.94 234.75 L 757.34 235.38"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 769.83 235.38 L 774.74 235.38 L 776.15 234.75 L 776.15 234.13 L 776.15 230.38 L 776.15 229.76 L 774.74 229.13 L 769.83 229.13 L 768.43 229.76 L 768.43 230.38 L 768.43 234.13 L 768.43 234.75 L 769.83 235.38"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 782.33 235.38 L 787.24 235.38 L 788.64 234.75 L 788.64 234.13 L 788.64 230.38 L 788.64 229.76 L 787.24 229.13 L 782.33 229.13 L 780.92 229.76 L 780.92 230.38 L 780.92 234.13 L 780.92 234.75 L 782.33 235.38"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 794.82 235.38 L 799.73 235.38 L 801.13 234.75 L 801.13 234.13 L 801.13 230.38 L 801.13 229.76 L 799.73 229.13 L 794.82 229.13 L 793.42 229.76 L 793.42 230.38 L 793.42 234.13 L 793.42 234.75 L 794.82 235.38"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 732.35 272.86 L 737.26 272.86 L 738.66 272.24 L 738.66 271.61 L 738.66 267.86 L 738.66 267.24 L 737.26 266.61 L 732.35 266.61 L 730.95 267.24 L 730.95 267.86 L 730.95 271.61 L 730.95 272.24 L 732.35 272.86"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 744.85 272.86 L 749.76 272.86 L 751.16 272.24 L 751.16 271.61 L 751.16 267.86 L 751.16 267.24 L 749.76 266.61 L 744.85 266.61 L 743.44 267.24 L 743.44 267.86 L 743.44 271.61 L 743.44 272.24 L 744.85 272.86"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 732.35 260.37 L 737.26 260.37 L 738.66 259.74 L 738.66 259.12 L 738.66 255.37 L 738.66 254.74 L 737.26 254.12 L 732.35 254.12 L 730.95 254.74 L 730.95 255.37 L 730.95 259.12 L 730.95 259.74 L 732.35 260.37"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 744.85 260.37 L 749.76 260.37 L 751.16 259.74 L 751.16 259.12 L 751.16 255.37 L 751.16 254.74 L 749.76 254.12 L 744.85 254.12 L 743.44 254.74 L 743.44 255.37 L 743.44 259.12 L 743.44 259.74 L 744.85 260.37"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 759.3 231.69 L 759.3 231.51 L 760.29 231.51 L 760.29 231.65 C 760.19 231.75 760.09 231.89 760 232.06 C 759.9 232.23 759.83 232.41 759.78 232.59 C 759.74 232.71 759.72 232.85 759.71 233 L 759.52 233 C 759.52 232.88 759.54 232.74 759.59 232.57 C 759.63 232.4 759.69 232.24 759.78 232.08 C 759.86 231.92 759.95 231.79 760.05 231.69 Z"
+              fill="none" stroke="#000000" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="771.7" y="229.4">
+                8
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="784.2" y="229.4">
+                9
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="759.24" y="241.91">
+                4
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="771.7" y="241.88">
+                5
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="784.2" y="241.9">
+                6
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="759.28" y="254.4">
+                1
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="771.72" y="254.4">
+                2
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="784.2" y="254.39">
+                3
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="795.12" y="229.41">
+                GHz
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="795.04" y="241.91">
+                MHz
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="795.4" y="254.4">
+                kHz
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="795.92" y="266.89">
+                Hz
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="759.21" y="266.88">
+                0
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="771.99" y="266.24">
+                key 'translation:. (en)' returned a object instead of string.
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="784.43" y="266.69">
+                -
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="735.55" y="254.26">
+                &gt;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="748.05" y="254.26">
+                &lt;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="746.68" y="266.88">
+                &lt;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="732.28" y="265.56">
+                Entry
+            </text>
+        </g>
+        <g fill="#000000" font-family="Arial,Helvetica" font-size="2.16px">
+            <text x="732.28" y="268.21">
+                Off
+            </text>
+        </g>
+        <ellipse cx="576" cy="336" rx="9.121140239999999" ry="9.121140239999999"
+                 fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <ellipse cx="576" cy="336" rx="4.363636368" ry="4.363636368"
+                 fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <ellipse cx="624" cy="336" rx="9.121140239999999" ry="9.121140239999999"
+                 fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <ellipse cx="624" cy="336" rx="4.363636368" ry="4.363636368"
+                 fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <ellipse cx="744" cy="336" rx="9.121140239999999" ry="9.121140239999999"
+                 fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <ellipse cx="744" cy="336" rx="4.363636368" ry="4.363636368"
+                 fill="#ffffff" stroke="#000000" pointer-events="none"/>
+        <rect x="562.8" y="454.8" width="2.4" height="2.4" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <path d="M 546 420 L 582 420 L 564 444 Z" fill="#ffffff"
+              stroke="#000000" stroke-width="2.4" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 564 420 L 564 454.8" fill="#ffffff" stroke="#000000"
+              stroke-width="2.4" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <rect x="802.8" y="454.8" width="2.4" height="2.4" fill="#000000"
+              stroke="none" pointer-events="none"/>
+        <path d="M 786 420 L 822 420 L 804 444 Z" fill="#ffffff"
+              stroke="#000000" stroke-width="2.4" stroke-linejoin="round"
+              stroke-linecap="round" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 804 420 L 804 454.8" fill="#ffffff" stroke="#000000"
+              stroke-width="2.4" stroke-linecap="square" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 564 456 L 624 456 L 624 336" fill="none" stroke="#000000"
+              stroke-width="2.4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 744 336 L 744 336 L 744 456 L 804 456" fill="none"
+              stroke="#000000" stroke-width="2.4" stroke-miterlimit="10"
+              pointer-events="none"/>
+        <path d="M 588 492 L 771.92 492" fill="none" stroke="#000000"
+              stroke-width="2.4" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 777.32 492 L 770.12 495.6 L 771.92 492 L 770.12 488.4 Z"
+              fill="#000000" stroke="#000000" stroke-width="2.4"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" text-anchor="middle"
+           font-size="13.2px">
+            <rect fill="#FFFFFF" stroke="none" x="672" y="495" width="25"
+                  height="17" stroke-width="0"/>
+            <text x="684" y="506.4">
+                S21
+            </text>
+        </g>
+    </g>
+</svg>

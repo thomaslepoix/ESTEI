@@ -1,0 +1,86 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="605"
+     height="609">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%"
+                        id="mx-gradient-ff7f00-1-ff7f00-1-s-0">
+            <stop offset="0%" style="stop-color:#ff7f00"/>
+            <stop offset="100%" style="stop-color:#ff7f00"/>
+        </linearGradient>
+    </defs>
+    <g transform=" scale(0.94) translate(-420.20000000000005,-0.20000000000000107)">
+        <rect x="434" y="14" width="616" height="630" fill="none"
+              stroke="#000000" stroke-width="1.4" pointer-events="none"/>
+        <rect x="518" y="98" width="448" height="336"
+              fill="url(#mx-gradient-ff7f00-1-ff7f00-1-s-0)" stroke="#000000"
+              stroke-width="1.4" pointer-events="none"/>
+        <rect x="714" y="434" width="56" height="210"
+              fill="url(#mx-gradient-ff7f00-1-ff7f00-1-s-0)" stroke="#000000"
+              stroke-width="1.4" pointer-events="none"/>
+        <path d="M 975.43 266 L 1040.57 266" fill="none" stroke="#000000"
+              stroke-width="2.8" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 969.13 266 L 977.53 261.8 L 975.43 266 L 977.53 270.2 Z"
+              fill="#000000" stroke="#000000" stroke-width="2.8"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1046.87 266 L 1038.47 270.2 L 1040.57 266 L 1038.47 261.8 Z"
+              fill="#000000" stroke="#000000" stroke-width="2.8"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="21px">
+            <rect fill="#FFFFFF" stroke="none" x="995" y="241" width="28"
+                  height="26" stroke-width="0"/>
+            <text x="1008" y="259">
+                3h
+            </text>
+        </g>
+        <path d="M 784 443.43 L 784 508.57" fill="none" stroke="#000000"
+              stroke-width="2.8" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 784 437.13 L 788.2 445.53 L 784 443.43 L 779.8 445.53 Z"
+              fill="#000000" stroke="#000000" stroke-width="2.8"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 784 514.87 L 779.8 506.47 L 784 508.57 L 788.2 506.47 Z"
+              fill="#000000" stroke="#000000" stroke-width="2.8"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           font-size="21px">
+            <rect fill="#FFFFFF" stroke="none" x="787" y="465" width="28"
+                  height="26" stroke-width="0"/>
+            <text x="786.8" y="483.7">
+                3h
+            </text>
+        </g>
+        <path d="M 443.43 266 L 508.57 266" fill="none" stroke="#000000"
+              stroke-width="2.8" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 437.13 266 L 445.53 261.8 L 443.43 266 L 445.53 270.2 Z"
+              fill="#000000" stroke="#000000" stroke-width="2.8"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 514.87 266 L 506.47 270.2 L 508.57 266 L 506.47 261.8 Z"
+              fill="#000000" stroke="#000000" stroke-width="2.8"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="21px">
+            <rect fill="#FFFFFF" stroke="none" x="463" y="241" width="28"
+                  height="26" stroke-width="0"/>
+            <text x="476" y="259">
+                3h
+            </text>
+        </g>
+        <path d="M 742 23.43 L 742 88.57" fill="none" stroke="#000000"
+              stroke-width="2.8" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 742 17.13 L 746.2 25.53 L 742 23.43 L 737.8 25.53 Z"
+              fill="#000000" stroke="#000000" stroke-width="2.8"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 742 94.87 L 737.8 86.47 L 742 88.57 L 746.2 86.47 Z"
+              fill="#000000" stroke="#000000" stroke-width="2.8"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           font-size="21px">
+            <rect fill="#FFFFFF" stroke="none" x="745" y="45" width="28"
+                  height="26" stroke-width="0"/>
+            <text x="744.8" y="63.7">
+                3h
+            </text>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,122 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="534"
+     height="622">
+    <defs>
+        <linearGradient x1="0%" y1="0%" x2="0%" y2="100%"
+                        id="mx-gradient-ff7f00-1-ff7f00-1-s-0">
+            <stop offset="0%" style="stop-color:#ff7f00"/>
+            <stop offset="100%" style="stop-color:#ff7f00"/>
+        </linearGradient>
+    </defs>
+    <g transform=" scale(0.93) translate(-595,-1070)">
+        <rect x="864" y="1440" width="64" height="240"
+              fill="url(#mx-gradient-ff7f00-1-ff7f00-1-s-0)" stroke="#000000"
+              stroke-width="1.6" pointer-events="none"/>
+        <path d="M 624 1130.78 L 624 1493.22" fill="none" stroke="#000000"
+              stroke-width="3.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 624 1123.58 L 628.8 1133.18 L 624 1130.78 L 619.2 1133.18 Z"
+              fill="#000000" stroke="#000000" stroke-width="3.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 624 1500.42 L 619.2 1490.82 L 624 1493.22 L 628.8 1490.82 Z"
+              fill="#000000" stroke="#000000" stroke-width="3.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="end" font-size="24px">
+            <rect fill="#FFFFFF" stroke="none" x="598" y="1300" width="25"
+                  height="29" stroke-width="0"/>
+            <text x="620.8" y="1320.8">
+                L 
+            </text>
+        </g>
+        <path d="M 650.78 1104 L 1141.22 1104" fill="none" stroke="#000000"
+              stroke-width="3.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 643.58 1104 L 653.18 1099.2 L 650.78 1104 L 653.18 1108.8 Z"
+              fill="#000000" stroke="#000000" stroke-width="3.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1148.42 1104 L 1138.82 1108.8 L 1141.22 1104 L 1138.82 1099.2 Z"
+              fill="#000000" stroke="#000000" stroke-width="3.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="24px">
+            <rect fill="#FFFFFF" stroke="none" x="884" y="1075" width="26"
+                  height="29" stroke-width="0"/>
+            <text x="896" y="1096">
+                W
+            </text>
+        </g>
+        <rect x="640" y="1440" width="160" height="64"
+              fill="url(#mx-gradient-ff7f00-1-ff7f00-1-s-0)" stroke="#000000"
+              stroke-width="1.6" pointer-events="none"/>
+        <rect x="640" y="1120" width="512" height="320"
+              fill="url(#mx-gradient-ff7f00-1-ff7f00-1-s-0)" stroke="#000000"
+              stroke-width="1.6" pointer-events="none"/>
+        <rect x="992" y="1440" width="160" height="64"
+              fill="url(#mx-gradient-ff7f00-1-ff7f00-1-s-0)" stroke="#000000"
+              stroke-width="1.6" pointer-events="none"/>
+        <path d="M 816 1493.22 L 816 1450.78" fill="none" stroke="#000000"
+              stroke-width="3.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 816 1500.42 L 811.2 1490.82 L 816 1493.22 L 820.8 1490.82 Z"
+              fill="#000000" stroke="#000000" stroke-width="3.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 816 1443.58 L 820.8 1453.18 L 816 1450.78 L 811.2 1453.18 Z"
+              fill="#000000" stroke="#000000" stroke-width="3.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           font-size="24px">
+            <rect fill="#FFFFFF" stroke="none" x="819" y="1460" width="30"
+                  height="29" stroke-width="0"/>
+            <text x="819.2" y="1480.8">
+                y0
+            </text>
+        </g>
+        <path d="M 810.78 1424 L 853.22 1424" fill="none" stroke="#000000"
+              stroke-width="3.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 803.58 1424 L 813.18 1419.2 L 810.78 1424 L 813.18 1428.8 Z"
+              fill="#000000" stroke="#000000" stroke-width="3.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 860.42 1424 L 850.82 1428.8 L 853.22 1424 L 850.82 1419.2 Z"
+              fill="#000000" stroke="#000000" stroke-width="3.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="24px">
+            <rect fill="#FFFFFF" stroke="none" x="815" y="1395" width="36"
+                  height="29" stroke-width="0"/>
+            <text x="832" y="1416">
+                w0
+            </text>
+        </g>
+        <path d="M 874.78 1696 L 917.22 1696" fill="none" stroke="#000000"
+              stroke-width="3.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 867.58 1696 L 877.18 1691.2 L 874.78 1696 L 877.18 1700.8 Z"
+              fill="#000000" stroke="#000000" stroke-width="3.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 924.42 1696 L 914.82 1700.8 L 917.22 1696 L 914.82 1691.2 Z"
+              fill="#000000" stroke="#000000" stroke-width="3.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           text-anchor="middle" font-size="24px">
+            <rect fill="#FFFFFF" stroke="none" x="874" y="1701" width="47"
+                  height="29" stroke-width="0"/>
+            <text x="896" y="1721.6">
+                Win
+            </text>
+        </g>
+        <path d="M 944 1450.78 L 944 1669.22" fill="none" stroke="#000000"
+              stroke-width="3.2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 944 1443.58 L 948.8 1453.18 L 944 1450.78 L 939.2 1453.18 Z"
+              fill="#000000" stroke="#000000" stroke-width="3.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 944 1676.42 L 939.2 1666.82 L 944 1669.22 L 948.8 1666.82 Z"
+              fill="#000000" stroke="#000000" stroke-width="3.2"
+              stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Arial,Helvetica" font-weight="bold"
+           font-size="24px">
+            <rect fill="#FFFFFF" stroke="none" x="947" y="1548" width="41"
+                  height="29" stroke-width="0"/>
+            <text x="947.2" y="1568.8">
+                Lin
+            </text>
+        </g>
+    </g>
+</svg>
