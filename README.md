@@ -6,7 +6,7 @@
 ### Description
 - Création d'une carte d'IHM pluggable sur la Raspberry Pi.
 - Création de l'OS de la Raspberry Pi avec [Yocto](https://www.yoctoproject.org/).
-- Travail en collaboration avec Thibaud LE DOLEDEC et [Taha MENEBHI](https://www.linkedin.com/in/taha-menebhi/).
+- Travail en collaboration avec [Thibaud LE DOLEDEC](https://www.hackster.io/thibaud-le-doledec/) et [Taha MENEBHI](https://www.linkedin.com/in/taha-menebhi/).
 ### Contenu
 - [Rapport de projet](https://github.com/thomaslepoix/ESTEI/blob/master/M1_Projet_Telecommande_Raspberry-Pi/Hardware_Middleware.pdf)
 - [Rapport complet avec Thibaud LE DOLEDEC et Taha MENEBHI](https://github.com/thomaslepoix/ESTEI/blob/master/M1_Projet_Telecommande_Raspberry-Pi/Projet.pdf)
