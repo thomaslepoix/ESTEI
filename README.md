@@ -2,6 +2,19 @@
 
 <br>
 
+## M2 - ARM : TPs STM32F4
+### Description
+- TP1 : Utilisation du bouton pour contrôler les LEDs, en polling et avec interruptions.
+- TP2 : Utilisation d'une PWM pour contrôler l'intensité lumineuse des LEDs.
+### Contenu
+- [Rapport TP1](https://github.com/thomaslepoix/ESTEI/blob/master/M2_ARM_TPs_STM32F4/TP1_IO_Interruptions/TP1.pdf)
+- [Sources TP1](https://github.com/thomaslepoix/ESTEI/blob/master/M2_ARM_TPs_STM32F4/TP1_IO_Interruptions/Sources)
+- [Rapport TP2](https://github.com/thomaslepoix/ESTEI/blob/master/M2_ARM_TPs_STM32F4/TP2_PWM/TP2.pdf)
+- [Sources TP2](https://github.com/thomaslepoix/ESTEI/blob/master/M2_ARM_TPs_STM32F4/TP2_PWM/Sources)
+
+<br>
+<br>
+
 ## M1 - Projet : Télécommande Wifi basée sur une Raspberry Pi
 ### Description
 - Création d'une carte d'IHM pluggable sur la Raspberry Pi.
