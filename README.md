@@ -17,7 +17,8 @@
 
 ## M2 - C++ : Qucs-RFlayout
 ### Description
-- Développement d'une solution pour produire des typons à partir des schémas microstrips de [Qucs](http://qucs.sourceforge.net/) (via [PcbNew](http://kicad-pcb.org/discover/pcbnew/) ou [pcb-rnd](http://repo.hu/projects/pcb-rnd/)).
+- Développement d'une solution pour produire des typons à partir des schémas microstrips de [Qucs](http://qucs.sourceforge.net/).
+- Via [PcbNew](http://kicad-pcb.org/discover/pcbnew/) ou [pcb-rnd](http://repo.hu/projects/pcb-rnd/).
 ### Contenu
 - [Dépot du projet](https://github.com/thomaslepoix/Qucs-RFlayout)
 
