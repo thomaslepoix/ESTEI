@@ -2,6 +2,15 @@
 
 <br>
 
+## M2 - C++ : Qucs-RFlayout
+### Description
+- Développement d'une solution pour produire des typons à partir des schémas microstrips de [Qucs](http://qucs.sourceforge.net/) (via [PcbNew](http://kicad-pcb.org/discover/pcbnew/) ou [pcb-rnd](http://repo.hu/projects/pcb-rnd/)).
+### Contenu
+- [Dépot du projet](https://github.com/thomaslepoix/Qucs-RFlayout)
+
+<br>
+<br>
+
 ## M2 - ARM : TPs STM32F4
 ### Description
 - TP1 : Utilisation du bouton pour contrôler les LEDs, en polling et avec interruptions.
