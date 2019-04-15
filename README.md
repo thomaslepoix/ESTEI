@@ -20,7 +20,7 @@
 - Développement d'une solution pour produire des typons à partir des schémas microstrips de [Qucs](http://qucs.sourceforge.net/).
 - Via [PcbNew](http://kicad-pcb.org/discover/pcbnew/) ou [pcb-rnd](http://repo.hu/projects/pcb-rnd/).
 ### Contenu
-- [Dépot du projet](https://github.com/thomaslepoix/Qucs-RFlayout)
+- [Dépôt du projet](https://github.com/thomaslepoix/Qucs-RFlayout)
 
 <br>
 <br>
@@ -68,7 +68,7 @@
 ## B3 - Linux : TP Crosstool chain
 ### Description
 - Réalisation manuelle d'un compilateur croisé x86 ARM.
-- Automatisation du processus dans un script à l'interface ergonomigue.
+- Automatisation du processus dans un script à l'interface ergonomique.
 ### Contenu
 - [Rapport de TP](https://github.com/thomaslepoix/ESTEI/blob/master/B3_Linux_Crosstool_Chain/Compte_Rendu.pdf)
 - [Script de construction du compilateur croisé](https://github.com/thomaslepoix/ESTEI/blob/master/B3_Linux_Crosstool_Chain/cross-compil.sh)
