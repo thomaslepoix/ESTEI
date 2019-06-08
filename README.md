@@ -2,6 +2,21 @@
 
 <br>
 
+## M2 - Projet : Autoscope
+### Description
+- Création d'un télescope robotisé imprimable en 3D basé sur une Raspberry Pi et le logiciel [Stellarium](http://stellarium.org/).
+- Création d'une carte d'extension de la Raspberry Pi.
+- Création de l'OS de la Raspberry Pi avec [Yocto](https://www.yoctoproject.org/).
+- Création d'un daemon pour le GPS mtk3339 ([Adafruit ultimate GPS](https://www.adafruit.com/product/746))
+- Travail en collaboration avec [Thibaud Le Doledec](https://github.com/thibaudledo), [Thomas Abgrall](https://github.com/ThomasAbg) et [Clément Ailloud](https://github.com/clement-ailloud)
+### Contenu
+- [Rapport de projet](https://github.com/thibaudledo/Autoscope/blob/latex/Autoscope_6.pdf)
+- [Dépôt principal du projet](https://github.com/thibaudledo/Autoscope)
+- [Layer Yocto de l'OS](https://github.com/thomaslepoix/meta-autoscope)
+
+<br>
+<br>
+
 ## M2 - ARM : TPs STM32F4
 ### Description
 - TP1 : Utilisation du bouton pour contrôler les LEDs, en polling et avec interruptions.
