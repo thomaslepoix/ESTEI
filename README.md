@@ -12,6 +12,8 @@
 ### Contenu
 - [Rapport de projet](https://github.com/thibaudledo/Autoscope/blob/latex/Autoscope_6.pdf)
 - [Dépôt principal du projet](https://github.com/thibaudledo/Autoscope)
+- [Fichiers de production de la carte d'extension (KiCad)](https://github.com/thibaudledo/Autoscope/tree/hardware)
+- [Daemon mtk3339d](https://github.com/thibaudledo/Autoscope/tree/mtk3339d)
 - [Layer Yocto de l'OS](https://github.com/thomaslepoix/meta-autoscope)
 
 <br>
